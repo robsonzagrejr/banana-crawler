@@ -1,0 +1,972 @@
+{
+    "0": {
+        "text": [
+            "\r\n\t\tLetter\r\n\t",
+            "Handwriting",
+            "Name of Letter",
+            "Similar English Sound",
+            "Sample",
+            "Handwriting"
+        ],
+        "image": [],
+        "sound": []
+    },
+    "1": {
+        "text": [
+            "\u0410 \u0430",
+            "Play",
+            "a",
+            "like ",
+            "ar",
+            "  in f",
+            "ar",
+            "\r\n\t\t\t\t\t\t\u00a0\u00a0",
+            "\u0430\u0301\u0442\u043e\u043c",
+            "Play"
+        ],
+        "image": [
+            "/tlt/pictures/sound_16.jpg",
+            "a2.jpg",
+            "atom70.jpg",
+            "/tlt/pictures/sound_16.jpg",
+            "atom2.jpg"
+        ],
+        "sound": [
+            "PlaySound2('Sound1.mp3');",
+            "PlaySound2('Sound1.mp3');",
+            "ShowHideHandwriting(this,'a','a');",
+            "PlaySound2('atom.mp3');",
+            "PlaySound2('atom.mp3');",
+            "ShowHideHandwriting(this,'atom','atom');"
+        ]
+    },
+    "2": {
+        "text": [
+            "\u0411 \u0431",
+            "Play",
+            "be",
+            "like ",
+            " b",
+            " in ",
+            "b",
+            "ox",
+            "\r\n\t\t\t\t\t\t\u00a0\u00a0",
+            "\u0431\u0430\u0442\u043e\u0301\u043d",
+            "Play"
+        ],
+        "image": [
+            "/tlt/pictures/sound_16.jpg",
+            "b2.jpg",
+            "baton70.jpg",
+            "/tlt/pictures/sound_16.jpg",
+            "baton2.jpg"
+        ],
+        "sound": [
+            "PlaySound2('Sound2.mp3');",
+            "PlaySound2('Sound2.mp3');",
+            "ShowHideHandwriting(this,'be','b');",
+            "PlaySound2('baton.mp3');",
+            "PlaySound2('baton.mp3');",
+            "ShowHideHandwriting(this,'baton','baton');"
+        ]
+    },
+    "3": {
+        "text": [
+            "\u0412 \u0432",
+            "Play",
+            "ve",
+            "like ",
+            " v ",
+            " in ",
+            "v",
+            "oice",
+            "\r\n\t\t\t\t\t\t\u00a0\u00a0",
+            "\u0432\u0430\u0301\u0440\u0435\u0436\u043a\u0438",
+            "Play"
+        ],
+        "image": [
+            "/tlt/pictures/sound_16.jpg",
+            "v2.jpg",
+            "varezhki70.jpg",
+            "/tlt/pictures/sound_16.jpg",
+            "varezhki2.jpg"
+        ],
+        "sound": [
+            "PlaySound2('Sound3.mp3');",
+            "PlaySound2('Sound3.mp3');",
+            "ShowHideHandwriting(this,'ve','v');",
+            "PlaySound2('varezhki.mp3');",
+            "PlaySound2('varezhki.mp3');",
+            "ShowHideHandwriting(this,'varezhki','varezhki');"
+        ]
+    },
+    "4": {
+        "text": [
+            "\u0413 \u0433",
+            "Play",
+            "ge",
+            "like ",
+            " g",
+            " in ",
+            "g",
+            "o",
+            "\r\n\t\t\t\t\t\t\u00a0\u00a0",
+            "\u0433\u0440\u0443\u0301\u0448\u0430",
+            "Play"
+        ],
+        "image": [
+            "/tlt/pictures/sound_16.jpg",
+            "g2.jpg",
+            "grusha70.jpg",
+            "/tlt/pictures/sound_16.jpg",
+            "grusha2.jpg"
+        ],
+        "sound": [
+            "PlaySound2('Sound4.mp3');",
+            "PlaySound2('Sound4.mp3');",
+            "ShowHideHandwriting(this,'ge','g');",
+            "PlaySound2('grusha.mp3');",
+            "PlaySound2('grusha.mp3');",
+            "ShowHideHandwriting(this,'grusha','grusha');"
+        ]
+    },
+    "5": {
+        "text": [
+            "\u0414 \u0434",
+            "Play",
+            "de",
+            "like ",
+            " d",
+            " in ",
+            "d",
+            "ay",
+            "\r\n\t\t\t\t\t\t\u00a0\u00a0",
+            "\u0434\u044b\u0301\u043d\u044f",
+            "Play"
+        ],
+        "image": [
+            "/tlt/pictures/sound_16.jpg",
+            "d2.jpg",
+            "dinya70.jpg",
+            "/tlt/pictures/sound_16.jpg",
+            "dynya2.jpg"
+        ],
+        "sound": [
+            "PlaySound2('Sound5.mp3');",
+            "PlaySound2('Sound5.mp3');",
+            "ShowHideHandwriting(this,'de','d');",
+            "PlaySound2('dynia.mp3');",
+            "PlaySound2('dynia.mp3');",
+            "ShowHideHandwriting(this,'dynya','dynya');"
+        ]
+    },
+    "6": {
+        "text": [
+            "\u0415 \u0435",
+            "Play",
+            "ye",
+            "like ",
+            " ye",
+            " in ",
+            "ye",
+            "t or ",
+            " e",
+            " in ",
+            "e",
+            "xit",
+            "\r\n\t\t\t\t\t\t\u00a0\u00a0",
+            "\u0435\u0436\u0435\u0432\u0438\u0301\u043a\u0430",
+            "Play"
+        ],
+        "image": [
+            "/tlt/pictures/sound_16.jpg",
+            "e2.jpg",
+            "ezhevika70.jpg",
+            "/tlt/pictures/sound_16.jpg",
+            "ezhevika2.jpg"
+        ],
+        "sound": [
+            "PlaySound2('Sound6.mp3');",
+            "PlaySound2('Sound6.mp3');",
+            "ShowHideHandwriting(this,'ye','e');",
+            "PlaySound2('ezhevika.mp3');",
+            "PlaySound2('ezhevika.mp3');",
+            "ShowHideHandwriting(this,'ezhevika','ezhevika');"
+        ]
+    },
+    "7": {
+        "text": [
+            "\u0401 \u0451",
+            "Play",
+            "yo",
+            "like ",
+            " yo",
+            " in ",
+            "yo",
+            "ur",
+            "\r\n\t\t\t\t\t\t\u00a0\u00a0",
+            "\u0451\u0436",
+            "Play"
+        ],
+        "image": [
+            "/tlt/pictures/sound_16.jpg",
+            "yo2.jpg",
+            "ezsh70.jpg",
+            "/tlt/pictures/sound_16.jpg",
+            "yozh2.jpg"
+        ],
+        "sound": [
+            "PlaySound2('Sound7.mp3');",
+            "PlaySound2('Sound7.mp3');",
+            "ShowHideHandwriting(this,'yo','yo');",
+            "PlaySound2('eozh.mp3');",
+            "PlaySound2('eozh.mp3');",
+            "ShowHideHandwriting(this,'yozh','yozh');"
+        ]
+    },
+    "8": {
+        "text": [
+            "\u0416 \u0436",
+            "Play",
+            "zhe",
+            "like ",
+            " s",
+            " in plea",
+            "s",
+            "ure",
+            "\r\n\t\t\t\t\t\t\u00a0\u00a0",
+            "\u0436\u0443\u043a",
+            "Play"
+        ],
+        "image": [
+            "/tlt/pictures/sound_16.jpg",
+            "zh2.jpg",
+            "zhuk70.jpg",
+            "/tlt/pictures/sound_16.jpg",
+            "zhuk2.jpg"
+        ],
+        "sound": [
+            "PlaySound2('Sound8.mp3');",
+            "PlaySound2('Sound8.mp3');",
+            "ShowHideHandwriting(this,'zhe','zh');",
+            "PlaySound2('zhuk.mp3');",
+            "PlaySound2('zhuk.mp3');",
+            "ShowHideHandwriting(this,'zhuk','zhuk');"
+        ]
+    },
+    "9": {
+        "text": [
+            "\u0417 \u0437",
+            "Play",
+            "ze",
+            "like ",
+            " z",
+            " in ",
+            "z",
+            "oo",
+            "\r\n\t\t\t\t\t\t\u00a0\u00a0",
+            "\u0437\u0430\u043c\u043e\u0301\u043a",
+            "Play"
+        ],
+        "image": [
+            "/tlt/pictures/sound_16.jpg",
+            "z2.jpg",
+            "zamok70.jpg",
+            "/tlt/pictures/sound_16.jpg",
+            "zamok2.jpg"
+        ],
+        "sound": [
+            "PlaySound2('Sound9.mp3');",
+            "PlaySound2('Sound9.mp3');",
+            "ShowHideHandwriting(this,'ze','z');",
+            "PlaySound2('zamok1.mp3');",
+            "PlaySound2('zamok1.mp3');",
+            "ShowHideHandwriting(this,'zamok','zamok');"
+        ]
+    },
+    "10": {
+        "text": [
+            "\u0418 \u0438",
+            "Play",
+            "ee",
+            "like ",
+            " ee",
+            " in m",
+            "eet",
+            "\r\n\t\t\t\t\t\t\u00a0\u00a0",
+            "\u0438\u043a\u0440\u0430\u0301",
+            "Play"
+        ],
+        "image": [
+            "/tlt/pictures/sound_16.jpg",
+            "ee2.jpg",
+            "ikra70.jpg",
+            "/tlt/pictures/sound_16.jpg",
+            "ikra2.jpg"
+        ],
+        "sound": [
+            "PlaySound2('Sound10.mp3');",
+            "PlaySound2('Sound10.mp3');",
+            "ShowHideHandwriting(this,'ee','ee');",
+            "PlaySound2('ikra.mp3');",
+            "PlaySound2('ikra.mp3');",
+            "ShowHideHandwriting(this,'ikra','ikra');"
+        ]
+    },
+    "11": {
+        "text": [
+            "\u0419 \u0439",
+            "Play",
+            "ee kratkoye (short i)",
+            "like ",
+            " y ",
+            " in bo",
+            "y",
+            "\r\n\t\t\t\t\t\t\u00a0\u00a0",
+            "\u0439\u043e\u0301\u0433\u0443\u0440\u0442",
+            "Play"
+        ],
+        "image": [
+            "/tlt/pictures/sound_16.jpg",
+            "ee_kratkoe2.jpg",
+            "yogurt70.jpg",
+            "/tlt/pictures/sound_16.jpg",
+            "yogurt2.jpg"
+        ],
+        "sound": [
+            "PlaySound2('Sound11.mp3');",
+            "PlaySound2('Sound11.mp3');",
+            "ShowHideHandwriting(this,'ee kratkoye (short i)','ee_kratkoe');",
+            "PlaySound2('yogurt.mp3');",
+            "PlaySound2('yogurt.mp3');",
+            "ShowHideHandwriting(this,'yogurt','yogurt');"
+        ]
+    },
+    "12": {
+        "text": [
+            "\u041a \u043a",
+            "Play",
+            "ka",
+            "like ",
+            " k",
+            " in ",
+            "k",
+            "ey or ",
+            " c",
+            " in ",
+            "c",
+            "at",
+            "\r\n\t\t\t\t\t\t\u00a0\u00a0",
+            "\u043a\u043b\u0443\u0431\u043d\u0438\u0301\u043a\u0430",
+            "Play"
+        ],
+        "image": [
+            "/tlt/pictures/sound_16.jpg",
+            "k2.jpg",
+            "klubnika70.jpg",
+            "/tlt/pictures/sound_16.jpg",
+            "klubnika2.jpg"
+        ],
+        "sound": [
+            "PlaySound2('Sound12.mp3');",
+            "PlaySound2('Sound12.mp3');",
+            "ShowHideHandwriting(this,'ka','k');",
+            "PlaySound2('klubnika.mp3');",
+            "PlaySound2('klubnika.mp3');",
+            "ShowHideHandwriting(this,'klubnika','klubnika');"
+        ]
+    },
+    "13": {
+        "text": [
+            "\u041b \u043b",
+            "Play",
+            "el",
+            "like",
+            " l ",
+            " in ",
+            "l",
+            "amp",
+            "\r\n\t\t\t\t\t\t\u00a0\u00a0",
+            "\u043b\u0438\u043c\u043e\u0301\u043d",
+            "Play"
+        ],
+        "image": [
+            "/tlt/pictures/sound_16.jpg",
+            "l2.jpg",
+            "limon70.jpg",
+            "/tlt/pictures/sound_16.jpg",
+            "limon2.jpg"
+        ],
+        "sound": [
+            "PlaySound2('Sound13.mp3');",
+            "PlaySound2('Sound13.mp3');",
+            "ShowHideHandwriting(this,'el','l');",
+            "PlaySound2('limony.mp3');",
+            "PlaySound2('limony.mp3');",
+            "ShowHideHandwriting(this,'limon','limon');"
+        ]
+    },
+    "14": {
+        "text": [
+            "\u041c \u043c",
+            "Play",
+            "em",
+            "like ",
+            " m",
+            " in ",
+            "m",
+            "an",
+            "\r\n\t\t\t\t\t\t\u00a0\u00a0",
+            "\u043c\u0430\u043b\u0438\u0301\u043d\u0430",
+            "Play"
+        ],
+        "image": [
+            "/tlt/pictures/sound_16.jpg",
+            "m2.jpg",
+            "malina70.jpg",
+            "/tlt/pictures/sound_16.jpg",
+            "malina2.jpg"
+        ],
+        "sound": [
+            "PlaySound2('Sound14.mp3');",
+            "PlaySound2('Sound14.mp3');",
+            "ShowHideHandwriting(this,'em','m');",
+            "PlaySound2('malina.mp3');",
+            "PlaySound2('malina.mp3');",
+            "ShowHideHandwriting(this,'malina','malina');"
+        ]
+    },
+    "15": {
+        "text": [
+            "\u041d \u043d",
+            "Play",
+            "en",
+            "like ",
+            " n",
+            " in ",
+            "n",
+            "ote",
+            "\r\n\t\t\t\t\t\t\u00a0\u00a0",
+            "\u043d\u043e\u0441\u043a\u0438\u0301",
+            "Play"
+        ],
+        "image": [
+            "/tlt/pictures/sound_16.jpg",
+            "n2.jpg",
+            "noski70.jpg",
+            "/tlt/pictures/sound_16.jpg",
+            "noski2.jpg"
+        ],
+        "sound": [
+            "PlaySound2('Sound15.mp3');",
+            "PlaySound2('Sound15.mp3');",
+            "ShowHideHandwriting(this,'en','n');",
+            "PlaySound2('noski.mp3');",
+            "PlaySound2('noski.mp3');",
+            "ShowHideHandwriting(this,'noski','noski');"
+        ]
+    },
+    "16": {
+        "text": [
+            "\u041e \u043e",
+            "Play",
+            "o",
+            "like ",
+            " o",
+            " in n",
+            "o",
+            "t",
+            "\r\n\t\t\t\t\t\t\u00a0\u00a0",
+            "\u043e\u0301\u0432\u043e\u0449\u0438",
+            "Play"
+        ],
+        "image": [
+            "/tlt/pictures/sound_16.jpg",
+            "o2.jpg",
+            "ovosshi70.jpg",
+            "/tlt/pictures/sound_16.jpg",
+            "ovoshchi2.jpg"
+        ],
+        "sound": [
+            "PlaySound2('Sound16.mp3');",
+            "PlaySound2('Sound16.mp3');",
+            "ShowHideHandwriting(this,'o','o');",
+            "PlaySound2('ovoshchi.mp3');",
+            "PlaySound2('ovoshchi.mp3');",
+            "ShowHideHandwriting(this,'ovoshchi','ovoshchi');"
+        ]
+    },
+    "17": {
+        "text": [
+            "\u041f \u043f",
+            "Play",
+            "pe",
+            "like ",
+            " p",
+            " in ",
+            "p",
+            "et",
+            "\r\n\t\t\t\t\t\t\u00a0\u00a0",
+            "\u043f\u0435\u0301\u0440\u0435\u0446",
+            "Play"
+        ],
+        "image": [
+            "/tlt/pictures/sound_16.jpg",
+            "p2.jpg",
+            "perez70.jpg",
+            "/tlt/pictures/sound_16.jpg",
+            "perets2.jpg"
+        ],
+        "sound": [
+            "PlaySound2('Sound17.mp3');",
+            "PlaySound2('Sound17.mp3');",
+            "ShowHideHandwriting(this,'pe','p');",
+            "PlaySound2('peretc.mp3');",
+            "PlaySound2('peretc.mp3');",
+            "ShowHideHandwriting(this,'perets','perets');"
+        ]
+    },
+    "18": {
+        "text": [
+            "\u0420 \u0440",
+            "Play",
+            "er",
+            "like ",
+            " r ",
+            " in ",
+            "r",
+            "ock (but rolled)",
+            "\r\n\t\t\t\t\t\t\u00a0\u00a0",
+            "\u0440\u044b\u0301\u0431\u0430",
+            "Play"
+        ],
+        "image": [
+            "/tlt/pictures/sound_16.jpg",
+            "r2.jpg",
+            "riba70.jpg",
+            "/tlt/pictures/sound_16.jpg",
+            "ryba2.jpg"
+        ],
+        "sound": [
+            "PlaySound2('Sound18.mp3');",
+            "PlaySound2('Sound18.mp3');",
+            "ShowHideHandwriting(this,'er','r');",
+            "PlaySound2('ryba.mp3');",
+            "PlaySound2('ryba.mp3');",
+            "ShowHideHandwriting(this,'ryba','ryba');"
+        ]
+    },
+    "19": {
+        "text": [
+            "\u0421 \u0441",
+            "Play",
+            "es",
+            "like ",
+            " s",
+            " in ",
+            "s",
+            "un",
+            "\r\n\t\t\t\t\t\t\u00a0\u00a0",
+            "\u0441\u0442\u0443\u043b",
+            "Play"
+        ],
+        "image": [
+            "/tlt/pictures/sound_16.jpg",
+            "s2.jpg",
+            "stul70.jpg",
+            "/tlt/pictures/sound_16.jpg",
+            "stul2.jpg"
+        ],
+        "sound": [
+            "PlaySound2('Sound19.mp3');",
+            "PlaySound2('Sound19.mp3');",
+            "ShowHideHandwriting(this,'es','s');",
+            "PlaySound2('stul.mp3');",
+            "PlaySound2('stul.mp3');",
+            "ShowHideHandwriting(this,'stul','stul');"
+        ]
+    },
+    "20": {
+        "text": [
+            "\u0422 \u0442",
+            "Play",
+            "te",
+            "like ",
+            " t ",
+            " in ",
+            "t",
+            "able",
+            "\r\n\t\t\t\t\t\t\u00a0\u00a0",
+            "\u0442\u043e\u0440\u0442",
+            "Play"
+        ],
+        "image": [
+            "/tlt/pictures/sound_16.jpg",
+            "t2.jpg",
+            "tort70.jpg",
+            "/tlt/pictures/sound_16.jpg",
+            "tort2.jpg"
+        ],
+        "sound": [
+            "PlaySound2('Sound20.mp3');",
+            "PlaySound2('Sound20.mp3');",
+            "ShowHideHandwriting(this,'te','t');",
+            "PlaySound2('tort.mp3');",
+            "PlaySound2('tort.mp3');",
+            "ShowHideHandwriting(this,'tort','tort');"
+        ]
+    },
+    "21": {
+        "text": [
+            "\u0423 \u0443",
+            "Play",
+            "oo",
+            "like ",
+            "oo",
+            " in m",
+            "oo",
+            "n",
+            "\r\n\t\t\t\t\t\t\u00a0\u00a0",
+            "\u0443\u0301\u0434\u043e\u0447\u043a\u0430",
+            "Play"
+        ],
+        "image": [
+            "/tlt/pictures/sound_16.jpg",
+            "u2.jpg",
+            "udo4ka70.jpg",
+            "/tlt/pictures/sound_16.jpg",
+            "udochka2.jpg"
+        ],
+        "sound": [
+            "PlaySound2('Sound21.mp3');",
+            "PlaySound2('Sound21.mp3');",
+            "ShowHideHandwriting(this,'oo','u');",
+            "PlaySound2('udochka.mp3');",
+            "PlaySound2('udochka.mp3');",
+            "ShowHideHandwriting(this,'udochka','udochka');"
+        ]
+    },
+    "22": {
+        "text": [
+            "\u0424 \u0444",
+            "Play",
+            "ef",
+            "like ",
+            " f ",
+            " in ",
+            "f",
+            "ood",
+            "\r\n\t\t\t\t\t\t\u00a0\u00a0",
+            "\u0444\u0440\u0443\u0301\u043a\u0442\u044b",
+            "Play"
+        ],
+        "image": [
+            "/tlt/pictures/sound_16.jpg",
+            "f2.jpg",
+            "frukti70.jpg",
+            "/tlt/pictures/sound_16.jpg",
+            "frukty2.jpg"
+        ],
+        "sound": [
+            "PlaySound2('Sound22.mp3');",
+            "PlaySound2('Sound22.mp3');",
+            "ShowHideHandwriting(this,'ef','f');",
+            "PlaySound2('frukty.mp3');",
+            "PlaySound2('frukty.mp3');",
+            "ShowHideHandwriting(this,'frukty','frukty');"
+        ]
+    },
+    "23": {
+        "text": [
+            "\u0425 \u0445",
+            "Play",
+            "kha",
+            "like ",
+            " ch",
+            " in Scottish lo",
+            "ch",
+            "\r\n\t\t\t\t\t\t\u00a0\u00a0",
+            "\u0445\u0432\u043e\u0301\u044f",
+            "Play"
+        ],
+        "image": [
+            "/tlt/pictures/sound_16.jpg",
+            "h2.jpg",
+            "hvoya70.jpg",
+            "/tlt/pictures/sound_16.jpg",
+            "hvoya2.jpg"
+        ],
+        "sound": [
+            "PlaySound2('Sound23.mp3');",
+            "PlaySound2('Sound23.mp3');",
+            "ShowHideHandwriting(this,'kha','h');",
+            "PlaySound2('khovoya.mp3');",
+            "PlaySound2('khovoya.mp3');",
+            "ShowHideHandwriting(this,'hvoya','hvoya');"
+        ]
+    },
+    "24": {
+        "text": [
+            "\u0426 \u0446",
+            "Play",
+            "tse",
+            "like ",
+            " ts",
+            " in boo",
+            "ts",
+            "\r\n\t\t\t\t\t\t\u00a0\u00a0",
+            "\u0446\u0438\u0301\u0444\u0440\u044b",
+            "Play"
+        ],
+        "image": [
+            "/tlt/pictures/sound_16.jpg",
+            "ts2.jpg",
+            "tsyfry70.jpg",
+            "/tlt/pictures/sound_16.jpg",
+            "tsyfry2.jpg"
+        ],
+        "sound": [
+            "PlaySound2('Sound24.mp3');",
+            "PlaySound2('Sound24.mp3');",
+            "ShowHideHandwriting(this,'tse','ts');",
+            "PlaySound2('tzyfry.mp3');",
+            "PlaySound2('tzyfry.mp3');",
+            "ShowHideHandwriting(this,'tsyfry','tsyfry');"
+        ]
+    },
+    "25": {
+        "text": [
+            "\u0427 \u0447",
+            "Play",
+            "che",
+            "like ",
+            " ch",
+            " in ",
+            "ch",
+            "at",
+            "\r\n\t\t\t\t\t\t\u00a0\u00a0",
+            "\u0447\u0430\u0301\u0448\u043a\u0430",
+            "Play"
+        ],
+        "image": [
+            "/tlt/pictures/sound_16.jpg",
+            "ch2.jpg",
+            "chashka70.jpg",
+            "/tlt/pictures/sound_16.jpg",
+            "chashka2.jpg"
+        ],
+        "sound": [
+            "PlaySound2('Sound25.mp3');",
+            "PlaySound2('Sound25.mp3');",
+            "ShowHideHandwriting(this,'che','ch');",
+            "PlaySound2('chashka.mp3');",
+            "PlaySound2('chashka.mp3');",
+            "ShowHideHandwriting(this,'chashka','chashka');"
+        ]
+    },
+    "26": {
+        "text": [
+            "\u0428 \u0448",
+            "Play",
+            "sha",
+            "like ",
+            " sh",
+            " in ",
+            "sh",
+            "ort",
+            "\r\n\t\t\t\t\t\t\u00a0\u00a0",
+            "\u0448\u0430\u0301\u043f\u043a\u0430",
+            "Play"
+        ],
+        "image": [
+            "/tlt/pictures/sound_16.jpg",
+            "sh2.jpg",
+            "shapka70.jpg",
+            "/tlt/pictures/sound_16.jpg",
+            "shapka2.jpg"
+        ],
+        "sound": [
+            "PlaySound2('Sound26.mp3');",
+            "PlaySound2('Sound26.mp3');",
+            "ShowHideHandwriting(this,'sha','sh');",
+            "PlaySound2('shapka.mp3');",
+            "PlaySound2('shapka.mp3');",
+            "ShowHideHandwriting(this,'shapka','shapka');"
+        ]
+    },
+    "27": {
+        "text": [
+            "\u0429 \u0449",
+            "Play",
+            "shcha",
+            "like ",
+            " sh_ch",
+            " in fre",
+            "sh_ch",
+            "eese",
+            "\r\n\t\t\t\t\t\t\u00a0\u00a0",
+            "\u0449\u0451\u0442\u043a\u0430",
+            "Play"
+        ],
+        "image": [
+            "/tlt/pictures/sound_16.jpg",
+            "shch2.jpg",
+            "shchotka70.jpg",
+            "/tlt/pictures/sound_16.jpg",
+            "shchotka2.jpg"
+        ],
+        "sound": [
+            "PlaySound2('Sound27.mp3');",
+            "PlaySound2('Sound27.mp3');",
+            "ShowHideHandwriting(this,'shcha','shch');",
+            "PlaySound2('shchotka.mp3');",
+            "PlaySound2('shchotka.mp3');",
+            "ShowHideHandwriting(this,'shchotka','shchotka');"
+        ]
+    },
+    "28": {
+        "text": [
+            "\u044a",
+            "Play",
+            "tviordiy znak (hard sign)",
+            "has no sound"
+        ],
+        "image": [
+            "/tlt/pictures/sound_16.jpg",
+            "tv_znak2.jpg"
+        ],
+        "sound": [
+            "PlaySound2('Sound28.mp3');",
+            "PlaySound2('Sound28.mp3');",
+            "ShowHideHandwriting(this,'tviordiy znak (hard sign)','tv_znak');"
+        ]
+    },
+    "29": {
+        "text": [
+            "\u044b",
+            "Play",
+            "ih*",
+            "like",
+            " i",
+            "  in ",
+            "i",
+            "ll"
+        ],
+        "image": [
+            "/tlt/pictures/sound_16.jpg",
+            "y2.jpg"
+        ],
+        "sound": [
+            "PlaySound2('Sound29.mp3');",
+            "PlaySound2('Sound29.mp3');",
+            "ShowHideHandwriting(this,'ih*','y');"
+        ]
+    },
+    "30": {
+        "text": [
+            "\u044c",
+            "Play",
+            "myagkiy znak (soft sign)",
+            "has no sound"
+        ],
+        "image": [
+            "/tlt/pictures/sound_16.jpg",
+            "m_znak2.jpg"
+        ],
+        "sound": [
+            "PlaySound2('Sound30.mp3');",
+            "PlaySound2('Sound30.mp3');",
+            "ShowHideHandwriting(this,'myagkiy znak (soft sign)','m_znak');"
+        ]
+    },
+    "31": {
+        "text": [
+            "\u042d \u044d",
+            "Play",
+            "e",
+            "like ",
+            " e",
+            " in ",
+            "e",
+            "nd",
+            "\r\n\t\t\t\t\t\t\u00a0\u00a0",
+            "\u044d\u043a\u0440\u0430\u0301\u043d",
+            "Play"
+        ],
+        "image": [
+            "/tlt/pictures/sound_16.jpg",
+            "ue2.jpg",
+            "ekran70.jpg",
+            "/tlt/pictures/sound_16.jpg",
+            "ekran2.jpg"
+        ],
+        "sound": [
+            "PlaySound2('Sound31.mp3');",
+            "PlaySound2('Sound31.mp3');",
+            "ShowHideHandwriting(this,'e','ue');",
+            "PlaySound2('ekran.mp3');",
+            "PlaySound2('ekran.mp3');",
+            "ShowHideHandwriting(this,'ekran','ekran');"
+        ]
+    },
+    "32": {
+        "text": [
+            "\u042e \u044e",
+            "Play",
+            "yoo",
+            "like ",
+            " u",
+            "  in ",
+            "u",
+            "se",
+            "\r\n\t\t\t\t\t\t\u00a0\u00a0",
+            "\u044e\u0301\u0431\u043a\u0430",
+            "Play"
+        ],
+        "image": [
+            "/tlt/pictures/sound_16.jpg",
+            "yu2.jpg",
+            "ubka70.jpg",
+            "/tlt/pictures/sound_16.jpg",
+            "yubka2.jpg"
+        ],
+        "sound": [
+            "PlaySound2('Sound32.mp3');",
+            "PlaySound2('Sound32.mp3');",
+            "ShowHideHandwriting(this,'yoo','yu');",
+            "PlaySound2('yubka.mp3');",
+            "PlaySound2('yubka.mp3');",
+            "ShowHideHandwriting(this,'yubka','yubka');"
+        ]
+    },
+    "33": {
+        "text": [
+            "\u042f \u044f",
+            "Play",
+            "ya",
+            "like ",
+            " ya",
+            " in ",
+            "ya",
+            "rd",
+            "\r\n\t\t\t\t\t\t\u00a0\u00a0",
+            "\u044f\u0301\u0431\u043b\u043e\u043a\u043e",
+            "Play"
+        ],
+        "image": [
+            "/tlt/pictures/sound_16.jpg",
+            "ya2.jpg",
+            "yabloko70.jpg",
+            "/tlt/pictures/sound_16.jpg",
+            "yabloko2.jpg"
+        ],
+        "sound": [
+            "PlaySound2('Sound33.mp3');",
+            "PlaySound2('Sound33.mp3');",
+            "ShowHideHandwriting(this,'ya','ya');",
+            "PlaySound2('jabloko.mp3');",
+            "PlaySound2('jabloko.mp3');",
+            "ShowHideHandwriting(this,'yabloko','yabloko');"
+        ]
+    }
+}
