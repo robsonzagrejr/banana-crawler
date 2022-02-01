@@ -1,0 +1,1698 @@
+{
+    "0": {
+        "text": [
+            "a"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/a.png"
+        ]
+    },
+    "1": {
+        "text": [
+            "i"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/i.png"
+        ]
+    },
+    "2": {
+        "text": [
+            "u"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/u.png"
+        ]
+    },
+    "3": {
+        "text": [
+            "e"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/e.png"
+        ]
+    },
+    "4": {
+        "text": [
+            "o"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/o.png"
+        ]
+    },
+    "5": {
+        "text": [
+            "ka"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ka.png"
+        ]
+    },
+    "6": {
+        "text": [
+            "ki"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ki.png"
+        ]
+    },
+    "7": {
+        "text": [
+            "ku"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ku.png"
+        ]
+    },
+    "8": {
+        "text": [
+            "ke"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ke.png"
+        ]
+    },
+    "9": {
+        "text": [
+            "ko"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ko.png"
+        ]
+    },
+    "10": {
+        "text": [
+            "sa"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/sa.png"
+        ]
+    },
+    "11": {
+        "text": [
+            "shi"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/shi.png"
+        ]
+    },
+    "12": {
+        "text": [
+            "su"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/su.png"
+        ]
+    },
+    "13": {
+        "text": [
+            "se"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/se.png"
+        ]
+    },
+    "14": {
+        "text": [
+            "so"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/so.png"
+        ]
+    },
+    "15": {
+        "text": [
+            "ta"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ta.png"
+        ]
+    },
+    "16": {
+        "text": [
+            "chi"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/chi.png"
+        ]
+    },
+    "17": {
+        "text": [
+            "tsu"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/tsu.png"
+        ]
+    },
+    "18": {
+        "text": [
+            "te"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/te.png"
+        ]
+    },
+    "19": {
+        "text": [
+            "to"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/to.png"
+        ]
+    },
+    "20": {
+        "text": [
+            "na"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/na.png"
+        ]
+    },
+    "21": {
+        "text": [
+            "ni"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ni.png"
+        ]
+    },
+    "22": {
+        "text": [
+            "nu"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/nu.png"
+        ]
+    },
+    "23": {
+        "text": [
+            "ne"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ne.png"
+        ]
+    },
+    "24": {
+        "text": [
+            "no"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/no.png"
+        ]
+    },
+    "25": {
+        "text": [
+            "ha"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ha.png"
+        ]
+    },
+    "26": {
+        "text": [
+            "hi"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/hi.png"
+        ]
+    },
+    "27": {
+        "text": [
+            "fu"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/fu.png"
+        ]
+    },
+    "28": {
+        "text": [
+            "he"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/he.png"
+        ]
+    },
+    "29": {
+        "text": [
+            "ho"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ho.png"
+        ]
+    },
+    "30": {
+        "text": [
+            "ma"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ma.png"
+        ]
+    },
+    "31": {
+        "text": [
+            "mi"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/mi.png"
+        ]
+    },
+    "32": {
+        "text": [
+            "mu"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/mu.png"
+        ]
+    },
+    "33": {
+        "text": [
+            "me"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/me.png"
+        ]
+    },
+    "34": {
+        "text": [
+            "mo"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/mo.png"
+        ]
+    },
+    "35": {
+        "text": [
+            "ya"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ya.png"
+        ]
+    },
+    "36": {
+        "text": [],
+        "image": []
+    },
+    "37": {
+        "text": [
+            "yu"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/yu.png"
+        ]
+    },
+    "38": {
+        "text": [],
+        "image": []
+    },
+    "39": {
+        "text": [
+            "yo"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/yo.png"
+        ]
+    },
+    "40": {
+        "text": [
+            "ra"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ra.png"
+        ]
+    },
+    "41": {
+        "text": [
+            "ri"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ri.png"
+        ]
+    },
+    "42": {
+        "text": [
+            "ru"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ru.png"
+        ]
+    },
+    "43": {
+        "text": [
+            "re"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/re.png"
+        ]
+    },
+    "44": {
+        "text": [
+            "ro"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ro.png"
+        ]
+    },
+    "45": {
+        "text": [
+            "wa"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/wa.png"
+        ]
+    },
+    "46": {
+        "text": [],
+        "image": []
+    },
+    "47": {
+        "text": [
+            "wo"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/wo.png"
+        ]
+    },
+    "48": {
+        "text": [],
+        "image": []
+    },
+    "49": {
+        "text": [
+            "n"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/n.png"
+        ]
+    },
+    "50": {
+        "text": [
+            "ga"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ga.png"
+        ]
+    },
+    "51": {
+        "text": [
+            "gi"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/gi.png"
+        ]
+    },
+    "52": {
+        "text": [
+            "gu"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/gu.png"
+        ]
+    },
+    "53": {
+        "text": [
+            "ge"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ge.png"
+        ]
+    },
+    "54": {
+        "text": [
+            "go"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/go.png"
+        ]
+    },
+    "55": {
+        "text": [
+            "za"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/za.png"
+        ]
+    },
+    "56": {
+        "text": [
+            "ji"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ji.png"
+        ]
+    },
+    "57": {
+        "text": [
+            "zu"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/zu.png"
+        ]
+    },
+    "58": {
+        "text": [
+            "ze"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ze.png"
+        ]
+    },
+    "59": {
+        "text": [
+            "zo"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/zo.png"
+        ]
+    },
+    "60": {
+        "text": [
+            "da"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/da.png"
+        ]
+    },
+    "61": {
+        "text": [
+            "ji"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ji2.png"
+        ]
+    },
+    "62": {
+        "text": [
+            "zu"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/zu2.png"
+        ]
+    },
+    "63": {
+        "text": [
+            "de"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/de.png"
+        ]
+    },
+    "64": {
+        "text": [
+            "do"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/do.png"
+        ]
+    },
+    "65": {
+        "text": [
+            "ba"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ba.png"
+        ]
+    },
+    "66": {
+        "text": [
+            "bi"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/bi.png"
+        ]
+    },
+    "67": {
+        "text": [
+            "bu"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/bu.png"
+        ]
+    },
+    "68": {
+        "text": [
+            "be"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/be.png"
+        ]
+    },
+    "69": {
+        "text": [
+            "bo"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/bo.png"
+        ]
+    },
+    "70": {
+        "text": [
+            "pa"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/pa.png"
+        ]
+    },
+    "71": {
+        "text": [
+            "pi"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/pi.png"
+        ]
+    },
+    "72": {
+        "text": [
+            "pu"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/pu.png"
+        ]
+    },
+    "73": {
+        "text": [
+            "pe"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/pe.png"
+        ]
+    },
+    "74": {
+        "text": [
+            "po"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/po.png"
+        ]
+    },
+    "75": {
+        "text": [
+            "kya"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/kya.png"
+        ]
+    },
+    "76": {
+        "text": [
+            "kyu"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/kyu.png"
+        ]
+    },
+    "77": {
+        "text": [
+            "kyo"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/kyo.png"
+        ]
+    },
+    "78": {
+        "text": [
+            "sha"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/sha.png"
+        ]
+    },
+    "79": {
+        "text": [
+            "shu"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/shu.png"
+        ]
+    },
+    "80": {
+        "text": [
+            "sho"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/sho.png"
+        ]
+    },
+    "81": {
+        "text": [
+            "cha"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/cha.png"
+        ]
+    },
+    "82": {
+        "text": [
+            "chu"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/chu.png"
+        ]
+    },
+    "83": {
+        "text": [
+            "cho"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/cho.png"
+        ]
+    },
+    "84": {
+        "text": [
+            "nya"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/nya.png"
+        ]
+    },
+    "85": {
+        "text": [
+            "nyu"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/nyu.png"
+        ]
+    },
+    "86": {
+        "text": [
+            "nyo"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/nyo.png"
+        ]
+    },
+    "87": {
+        "text": [
+            "hya"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/hya.png"
+        ]
+    },
+    "88": {
+        "text": [
+            "hyu"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/hyu.png"
+        ]
+    },
+    "89": {
+        "text": [
+            "hyo"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/hyo.png"
+        ]
+    },
+    "90": {
+        "text": [
+            "mya"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/mya.png"
+        ]
+    },
+    "91": {
+        "text": [
+            "myu"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/myu.png"
+        ]
+    },
+    "92": {
+        "text": [
+            "myo"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/myo.png"
+        ]
+    },
+    "93": {
+        "text": [
+            "rya"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/rya.png"
+        ]
+    },
+    "94": {
+        "text": [
+            "ryu"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ryu.png"
+        ]
+    },
+    "95": {
+        "text": [
+            "ryo"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ryo.png"
+        ]
+    },
+    "96": {
+        "text": [
+            "gya"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/gya.png"
+        ]
+    },
+    "97": {
+        "text": [
+            "gyu"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/gyu.png"
+        ]
+    },
+    "98": {
+        "text": [
+            "gyo"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/gyo.png"
+        ]
+    },
+    "99": {
+        "text": [
+            "ja"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ja.png"
+        ]
+    },
+    "100": {
+        "text": [
+            "ju"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ju.png"
+        ]
+    },
+    "101": {
+        "text": [
+            "jo"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/jo.png"
+        ]
+    },
+    "102": {
+        "text": [
+            "bya"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/bya.png"
+        ]
+    },
+    "103": {
+        "text": [
+            "byu"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/byu.png"
+        ]
+    },
+    "104": {
+        "text": [
+            "byo"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/byo.png"
+        ]
+    },
+    "105": {
+        "text": [
+            "pya"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/pya.png"
+        ]
+    },
+    "106": {
+        "text": [
+            "pyu"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/pyu.png"
+        ]
+    },
+    "107": {
+        "text": [
+            "pyo"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/pyo.png"
+        ]
+    },
+    "108": {
+        "text": [
+            "a"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/a.png"
+        ]
+    },
+    "109": {
+        "text": [
+            "i"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/i.png"
+        ]
+    },
+    "110": {
+        "text": [
+            "u"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/u.png"
+        ]
+    },
+    "111": {
+        "text": [
+            "e"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/e.png"
+        ]
+    },
+    "112": {
+        "text": [
+            "o"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/o.png"
+        ]
+    },
+    "113": {
+        "text": [
+            "ka"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ka.png"
+        ]
+    },
+    "114": {
+        "text": [
+            "ki"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ki.png"
+        ]
+    },
+    "115": {
+        "text": [
+            "ku"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ku.png"
+        ]
+    },
+    "116": {
+        "text": [
+            "ke"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ke.png"
+        ]
+    },
+    "117": {
+        "text": [
+            "ko"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ko.png"
+        ]
+    },
+    "118": {
+        "text": [
+            "sa"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/sa.png"
+        ]
+    },
+    "119": {
+        "text": [
+            "shi"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/shi.png"
+        ]
+    },
+    "120": {
+        "text": [
+            "su"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/su.png"
+        ]
+    },
+    "121": {
+        "text": [
+            "se"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/se.png"
+        ]
+    },
+    "122": {
+        "text": [
+            "so"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/so.png"
+        ]
+    },
+    "123": {
+        "text": [
+            "ta"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ta.png"
+        ]
+    },
+    "124": {
+        "text": [
+            "chi"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/chi.png"
+        ]
+    },
+    "125": {
+        "text": [
+            "tsu"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/tsu.png"
+        ]
+    },
+    "126": {
+        "text": [
+            "te"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/te.png"
+        ]
+    },
+    "127": {
+        "text": [
+            "to"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/to.png"
+        ]
+    },
+    "128": {
+        "text": [
+            "na"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/na.png"
+        ]
+    },
+    "129": {
+        "text": [
+            "ni"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ni.png"
+        ]
+    },
+    "130": {
+        "text": [
+            "nu"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/nu.png"
+        ]
+    },
+    "131": {
+        "text": [
+            "ne"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ne.png"
+        ]
+    },
+    "132": {
+        "text": [
+            "no"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/no.png"
+        ]
+    },
+    "133": {
+        "text": [
+            "ha"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ha.png"
+        ]
+    },
+    "134": {
+        "text": [
+            "hi"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/hi.png"
+        ]
+    },
+    "135": {
+        "text": [
+            "fu"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/fu.png"
+        ]
+    },
+    "136": {
+        "text": [
+            "he"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/he.png"
+        ]
+    },
+    "137": {
+        "text": [
+            "ho"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ho.png"
+        ]
+    },
+    "138": {
+        "text": [
+            "ma"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ma.png"
+        ]
+    },
+    "139": {
+        "text": [
+            "mi"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/mi.png"
+        ]
+    },
+    "140": {
+        "text": [
+            "mu"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/mu.png"
+        ]
+    },
+    "141": {
+        "text": [
+            "me"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/me.png"
+        ]
+    },
+    "142": {
+        "text": [
+            "mo"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/mo.png"
+        ]
+    },
+    "143": {
+        "text": [
+            "ya"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ya.png"
+        ]
+    },
+    "144": {
+        "text": [],
+        "image": []
+    },
+    "145": {
+        "text": [
+            "yu"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/yu.png"
+        ]
+    },
+    "146": {
+        "text": [],
+        "image": []
+    },
+    "147": {
+        "text": [
+            "yo"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/yo.png"
+        ]
+    },
+    "148": {
+        "text": [
+            "ra"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ra.png"
+        ]
+    },
+    "149": {
+        "text": [
+            "ri"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ri.png"
+        ]
+    },
+    "150": {
+        "text": [
+            "ru"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ru.png"
+        ]
+    },
+    "151": {
+        "text": [
+            "re"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/re.png"
+        ]
+    },
+    "152": {
+        "text": [
+            "ro"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ro.png"
+        ]
+    },
+    "153": {
+        "text": [
+            "wa"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/wa.png"
+        ]
+    },
+    "154": {
+        "text": [],
+        "image": []
+    },
+    "155": {
+        "text": [
+            "wo"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/wo.png"
+        ]
+    },
+    "156": {
+        "text": [],
+        "image": []
+    },
+    "157": {
+        "text": [
+            "n"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/n.png"
+        ]
+    },
+    "158": {
+        "text": [
+            "ga"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ga.png"
+        ]
+    },
+    "159": {
+        "text": [
+            "gi"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/gi.png"
+        ]
+    },
+    "160": {
+        "text": [
+            "gu"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/gu.png"
+        ]
+    },
+    "161": {
+        "text": [
+            "ge"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ge.png"
+        ]
+    },
+    "162": {
+        "text": [
+            "go"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/go.png"
+        ]
+    },
+    "163": {
+        "text": [
+            "za"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/za.png"
+        ]
+    },
+    "164": {
+        "text": [
+            "ji"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ji.png"
+        ]
+    },
+    "165": {
+        "text": [
+            "zu"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/zu.png"
+        ]
+    },
+    "166": {
+        "text": [
+            "ze"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ze.png"
+        ]
+    },
+    "167": {
+        "text": [
+            "zo"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/zo.png"
+        ]
+    },
+    "168": {
+        "text": [
+            "da"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/da.png"
+        ]
+    },
+    "169": {
+        "text": [
+            "ji"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ji2.png"
+        ]
+    },
+    "170": {
+        "text": [
+            "zu"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/zu2.png"
+        ]
+    },
+    "171": {
+        "text": [
+            "de"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/de.png"
+        ]
+    },
+    "172": {
+        "text": [
+            "do"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/do.png"
+        ]
+    },
+    "173": {
+        "text": [
+            "ba"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ba.png"
+        ]
+    },
+    "174": {
+        "text": [
+            "bi"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/bi.png"
+        ]
+    },
+    "175": {
+        "text": [
+            "bu"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/bu.png"
+        ]
+    },
+    "176": {
+        "text": [
+            "be"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/be.png"
+        ]
+    },
+    "177": {
+        "text": [
+            "bo"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/bo.png"
+        ]
+    },
+    "178": {
+        "text": [
+            "pa"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/pa.png"
+        ]
+    },
+    "179": {
+        "text": [
+            "pi"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/pi.png"
+        ]
+    },
+    "180": {
+        "text": [
+            "pu"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/pu.png"
+        ]
+    },
+    "181": {
+        "text": [
+            "pe"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/pe.png"
+        ]
+    },
+    "182": {
+        "text": [
+            "po"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/po.png"
+        ]
+    },
+    "183": {
+        "text": [
+            "kya"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/kya.png"
+        ]
+    },
+    "184": {
+        "text": [
+            "kyu"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/kyu.png"
+        ]
+    },
+    "185": {
+        "text": [
+            "kyo"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/kyo.png"
+        ]
+    },
+    "186": {
+        "text": [
+            "sha"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/sha.png"
+        ]
+    },
+    "187": {
+        "text": [
+            "shu"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/shu.png"
+        ]
+    },
+    "188": {
+        "text": [
+            "sho"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/sho.png"
+        ]
+    },
+    "189": {
+        "text": [
+            "cha"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/cha.png"
+        ]
+    },
+    "190": {
+        "text": [
+            "chu"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/chu.png"
+        ]
+    },
+    "191": {
+        "text": [
+            "cho"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/cho.png"
+        ]
+    },
+    "192": {
+        "text": [
+            "nya"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/nya.png"
+        ]
+    },
+    "193": {
+        "text": [
+            "nyu"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/nyu.png"
+        ]
+    },
+    "194": {
+        "text": [
+            "nyo"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/nyo.png"
+        ]
+    },
+    "195": {
+        "text": [
+            "hya"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/hya.png"
+        ]
+    },
+    "196": {
+        "text": [
+            "hyu"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/hyu.png"
+        ]
+    },
+    "197": {
+        "text": [
+            "hyo"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/hyo.png"
+        ]
+    },
+    "198": {
+        "text": [
+            "mya"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/mya.png"
+        ]
+    },
+    "199": {
+        "text": [
+            "myu"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/myu.png"
+        ]
+    },
+    "200": {
+        "text": [
+            "myo"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/myo.png"
+        ]
+    },
+    "201": {
+        "text": [
+            "rya"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/rya.png"
+        ]
+    },
+    "202": {
+        "text": [
+            "ryu"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ryu.png"
+        ]
+    },
+    "203": {
+        "text": [
+            "ryo"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ryo.png"
+        ]
+    },
+    "204": {
+        "text": [
+            "gya"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/gya.png"
+        ]
+    },
+    "205": {
+        "text": [
+            "gyu"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/gyu.png"
+        ]
+    },
+    "206": {
+        "text": [
+            "gyo"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/gyo.png"
+        ]
+    },
+    "207": {
+        "text": [
+            "ja"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ja.png"
+        ]
+    },
+    "208": {
+        "text": [
+            "ju"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/ju.png"
+        ]
+    },
+    "209": {
+        "text": [
+            "jo"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/jo.png"
+        ]
+    },
+    "210": {
+        "text": [
+            "bya"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/bya.png"
+        ]
+    },
+    "211": {
+        "text": [
+            "byu"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/byu.png"
+        ]
+    },
+    "212": {
+        "text": [
+            "byo"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/byo.png"
+        ]
+    },
+    "213": {
+        "text": [
+            "pya"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/pya.png"
+        ]
+    },
+    "214": {
+        "text": [
+            "pyu"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/pyu.png"
+        ]
+    },
+    "215": {
+        "text": [
+            "pyo"
+        ],
+        "image": [
+            "/lesson/assets/images/letters/hira/pyo.png"
+        ]
+    }
+}
