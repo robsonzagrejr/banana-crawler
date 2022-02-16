@@ -1,0 +1,1297 @@
+{
+    "0": {
+        "text": [
+            "g",
+            "k"
+        ],
+        "image": [
+            " \u3131 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-giyeok.mp3"
+        ]
+    },
+    "1": {
+        "text": [
+            "kk",
+            "k"
+        ],
+        "image": [
+            " \u3132 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-ssanggiyeok-new.mp3"
+        ]
+    },
+    "2": {
+        "text": [
+            "n",
+            "n"
+        ],
+        "image": [
+            " \u3134 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-nieun-new.mp3"
+        ]
+    },
+    "3": {
+        "text": [
+            "d",
+            "t"
+        ],
+        "image": [
+            " \u3137 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-digeut.mp3"
+        ]
+    },
+    "4": {
+        "text": [
+            "tt",
+            "-"
+        ],
+        "image": [
+            " \u3138 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-ssangdigeut.mp3"
+        ]
+    },
+    "5": {
+        "text": [
+            "r",
+            "l"
+        ],
+        "image": [
+            " \u3139 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-rieul.mp3"
+        ]
+    },
+    "6": {
+        "text": [
+            "m",
+            "m"
+        ],
+        "image": [
+            " \u3141 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-mieum.mp3"
+        ]
+    },
+    "7": {
+        "text": [
+            "b",
+            "p"
+        ],
+        "image": [
+            " \u3142 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-bieup.mp3"
+        ]
+    },
+    "8": {
+        "text": [
+            "pp",
+            "-"
+        ],
+        "image": [
+            " \u3143 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-ssangbieup.mp3"
+        ]
+    },
+    "9": {
+        "text": [
+            "s",
+            "t"
+        ],
+        "image": [
+            " \u3145 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-siot.mp3"
+        ]
+    },
+    "10": {
+        "text": [
+            "ss",
+            "t"
+        ],
+        "image": [
+            " \u3146 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-ssangsiot.mp3"
+        ]
+    },
+    "11": {
+        "text": [
+            "-",
+            "ng"
+        ],
+        "image": [
+            " \u3147 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-ieung.mp3"
+        ]
+    },
+    "12": {
+        "text": [
+            "j",
+            "t"
+        ],
+        "image": [
+            " \u3148 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-jieut.mp3"
+        ]
+    },
+    "13": {
+        "text": [
+            "jj",
+            "-"
+        ],
+        "image": [
+            " \u3149 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-ssangjieut.mp3"
+        ]
+    },
+    "14": {
+        "text": [
+            "ch",
+            "t"
+        ],
+        "image": [
+            " \u314a "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-chieut.mp3"
+        ]
+    },
+    "15": {
+        "text": [
+            "k",
+            "k"
+        ],
+        "image": [
+            " \u314b "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-kieuk.mp3"
+        ]
+    },
+    "16": {
+        "text": [
+            "t",
+            "t"
+        ],
+        "image": [
+            " \u314c "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-tieut-new.mp3"
+        ]
+    },
+    "17": {
+        "text": [
+            "p",
+            "p"
+        ],
+        "image": [
+            " \u314d "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-pieup-new.mp3"
+        ]
+    },
+    "18": {
+        "text": [
+            "h",
+            "t"
+        ],
+        "image": [
+            " \u314e "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-hieut.mp3"
+        ]
+    },
+    "19": {
+        "text": [
+            "a"
+        ],
+        "image": [
+            " \u314f "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-a.mp3"
+        ]
+    },
+    "20": {
+        "text": [
+            "ae"
+        ],
+        "image": [
+            " \u3150 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-ae.mp3"
+        ]
+    },
+    "21": {
+        "text": [
+            "ya"
+        ],
+        "image": [
+            " \u3151 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-ya.mp3"
+        ]
+    },
+    "22": {
+        "text": [
+            "yae"
+        ],
+        "image": [
+            " \u3152 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-yae.mp3"
+        ]
+    },
+    "23": {
+        "text": [
+            "eo"
+        ],
+        "image": [
+            " \u3153 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-eo.mp3"
+        ]
+    },
+    "24": {
+        "text": [
+            "e"
+        ],
+        "image": [
+            " \u3154 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-e.mp3"
+        ]
+    },
+    "25": {
+        "text": [
+            "yeo"
+        ],
+        "image": [
+            " \u3155 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-yeo.mp3"
+        ]
+    },
+    "26": {
+        "text": [
+            "ye"
+        ],
+        "image": [
+            " \u3156 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-ye.mp3"
+        ]
+    },
+    "27": {
+        "text": [
+            "o"
+        ],
+        "image": [
+            " \u3157 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-o.mp3"
+        ]
+    },
+    "28": {
+        "text": [
+            "wa"
+        ],
+        "image": [
+            " \u3158 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-wa.mp3"
+        ]
+    },
+    "29": {
+        "text": [
+            "wae"
+        ],
+        "image": [
+            " \u3159 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-wae.mp3"
+        ]
+    },
+    "30": {
+        "text": [
+            "oe"
+        ],
+        "image": [
+            " \u315a "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-oe.mp3"
+        ]
+    },
+    "31": {
+        "text": [
+            "yo"
+        ],
+        "image": [
+            " \u315b "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-yo.mp3"
+        ]
+    },
+    "32": {
+        "text": [
+            "u"
+        ],
+        "image": [
+            " \u315c "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-u.mp3"
+        ]
+    },
+    "33": {
+        "text": [
+            "wo"
+        ],
+        "image": [
+            " \u315d "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-wo.mp3"
+        ]
+    },
+    "34": {
+        "text": [
+            "we"
+        ],
+        "image": [
+            " \u315e "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-we.mp3"
+        ]
+    },
+    "35": {
+        "text": [
+            "wi"
+        ],
+        "image": [
+            " \u315f "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-wi.mp3"
+        ]
+    },
+    "36": {
+        "text": [
+            "yu"
+        ],
+        "image": [
+            " \u3160 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-yu.mp3"
+        ]
+    },
+    "37": {
+        "text": [
+            "eu"
+        ],
+        "image": [
+            " \u3161 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-eu.mp3"
+        ]
+    },
+    "38": {
+        "text": [
+            "ui"
+        ],
+        "image": [
+            " \u3162 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-ui.mp3"
+        ]
+    },
+    "39": {
+        "text": [
+            "i"
+        ],
+        "image": [
+            " \u3163 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-i.mp3"
+        ]
+    },
+    "40": {
+        "text": [
+            "k"
+        ],
+        "image": [
+            " \u3131 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-giyeok.mp3"
+        ]
+    },
+    "41": {
+        "text": [
+            "kk"
+        ],
+        "image": [
+            " \u3132 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-ssanggiyeok-new.mp3"
+        ]
+    },
+    "42": {
+        "text": [
+            "d"
+        ],
+        "image": [
+            " \u3137 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-digeut.mp3"
+        ]
+    },
+    "43": {
+        "text": [
+            "dd"
+        ],
+        "image": [
+            " \u3138 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-ssangdigeut.mp3"
+        ]
+    },
+    "44": {
+        "text": [
+            "j"
+        ],
+        "image": [
+            " \u3148 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-jieut.mp3"
+        ]
+    },
+    "45": {
+        "text": [
+            "jj"
+        ],
+        "image": [
+            " \u3149 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-ssangjieut.mp3"
+        ]
+    },
+    "46": {
+        "text": [
+            "b"
+        ],
+        "image": [
+            " \u3142 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-bieup.mp3"
+        ]
+    },
+    "47": {
+        "text": [
+            "bb"
+        ],
+        "image": [
+            " \u3143 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-ssangbieup.mp3"
+        ]
+    },
+    "48": {
+        "text": [
+            "s"
+        ],
+        "image": [
+            " \u3145 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-siot.mp3"
+        ]
+    },
+    "49": {
+        "text": [
+            "ss"
+        ],
+        "image": [
+            " \u3146 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-ssangsiot-new.mp3"
+        ]
+    },
+    "50": {
+        "text": [
+            "giyeok"
+        ],
+        "image": [
+            " \u3131 ",
+            " \uae30\uc5ed "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-giyeok.mp3",
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-giyeok-name.mp3"
+        ]
+    },
+    "51": {
+        "text": [
+            "ssangiyeok"
+        ],
+        "image": [
+            " \u3132 ",
+            " \uc30d\uae30\uc5ed "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-ssanggiyeok-new.mp3",
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-ssanggiyeok-name.mp3"
+        ]
+    },
+    "52": {
+        "text": [
+            "nieun"
+        ],
+        "image": [
+            " \u3134 ",
+            " \ub2c8\uc740 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-nieun-new.mp3",
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-nieun-name.mp3"
+        ]
+    },
+    "53": {
+        "text": [
+            "digeut"
+        ],
+        "image": [
+            " \u3137 ",
+            " \ub514\uadff "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-digeut.mp3",
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-digeut-name.mp3"
+        ]
+    },
+    "54": {
+        "text": [
+            "ssangdigeut"
+        ],
+        "image": [
+            " \u3138 ",
+            " \uc30d\ub514\uadff "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-ssangdigeut.mp3",
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-ssangdigeut-name.mp3"
+        ]
+    },
+    "55": {
+        "text": [
+            "rieul"
+        ],
+        "image": [
+            " \u3139 ",
+            " \ub9ac\uc744 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-rieul.mp3",
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-rieul-name.mp3"
+        ]
+    },
+    "56": {
+        "text": [
+            "mieum"
+        ],
+        "image": [
+            " \u3141 ",
+            " \ubbf8\uc74c "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-mieum.mp3",
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-mieum-name.mp3"
+        ]
+    },
+    "57": {
+        "text": [
+            "bieup"
+        ],
+        "image": [
+            " \u3142 ",
+            " \ube44\uc74d "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-bieup.mp3",
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-bieup-name.mp3"
+        ]
+    },
+    "58": {
+        "text": [
+            "ssangbieup"
+        ],
+        "image": [
+            " \u3143 ",
+            " \uc30d\ube44\uc74d "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-ssangbieup.mp3",
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-ssangbieup-name.mp3"
+        ]
+    },
+    "59": {
+        "text": [
+            "siot"
+        ],
+        "image": [
+            " \u3145 ",
+            " \uc2dc\uc637 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-siot.mp3",
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-siot-name.mp3"
+        ]
+    },
+    "60": {
+        "text": [
+            "ssangsiot"
+        ],
+        "image": [
+            " \u3146 ",
+            " \uc30d\uc2dc\uc637 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-ssangsiot.mp3",
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-ssangsiot-name.mp3"
+        ]
+    },
+    "61": {
+        "text": [
+            "ieung"
+        ],
+        "image": [
+            " \u3147 ",
+            " \uc774\uc751 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-ieung.mp3",
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-ieung-name.mp3"
+        ]
+    },
+    "62": {
+        "text": [
+            "jieut"
+        ],
+        "image": [
+            " \u3148 ",
+            " \uc9c0\uc752 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-jieut.mp3",
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-jieut-name.mp3"
+        ]
+    },
+    "63": {
+        "text": [
+            "ssangjieut"
+        ],
+        "image": [
+            " \u3149 ",
+            " \uc30d\uc9c0\uc752 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-ssangjieut.mp3",
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-ssangjieut-name.mp3"
+        ]
+    },
+    "64": {
+        "text": [
+            "chieut"
+        ],
+        "image": [
+            " \u314a ",
+            " \uce58\uc753 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-chieut.mp3",
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-chieut-name.mp3"
+        ]
+    },
+    "65": {
+        "text": [
+            "kieuk"
+        ],
+        "image": [
+            " \u314b ",
+            " \ud0a4\uc754 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-kieuk.mp3",
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-kieuk-name.mp3"
+        ]
+    },
+    "66": {
+        "text": [
+            "tieut"
+        ],
+        "image": [
+            " \u314c ",
+            " \ud2f0\uc755 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-tieut-new.mp3",
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-tieut-name.mp3"
+        ]
+    },
+    "67": {
+        "text": [
+            "pieup"
+        ],
+        "image": [
+            " \u314d ",
+            " \ud53c\uc756 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-pieup-new.mp3",
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-pieup-name.mp3"
+        ]
+    },
+    "68": {
+        "text": [
+            "hieut"
+        ],
+        "image": [
+            " \u314e ",
+            " \ud788\uc757 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-hieut.mp3",
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-hieut-name.mp3"
+        ]
+    },
+    "69": {
+        "text": [
+            "a"
+        ],
+        "image": [
+            " \u314f "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-a.mp3"
+        ]
+    },
+    "70": {
+        "text": [
+            "ae"
+        ],
+        "image": [
+            " \u3150 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-ae.mp3"
+        ]
+    },
+    "71": {
+        "text": [
+            "ya"
+        ],
+        "image": [
+            " \u3151 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-ya.mp3"
+        ]
+    },
+    "72": {
+        "text": [
+            "yae"
+        ],
+        "image": [
+            " \u3152 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-yae.mp3"
+        ]
+    },
+    "73": {
+        "text": [
+            "eo"
+        ],
+        "image": [
+            " \u3153 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-eo.mp3"
+        ]
+    },
+    "74": {
+        "text": [
+            "e"
+        ],
+        "image": [
+            " \u3154 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-e.mp3"
+        ]
+    },
+    "75": {
+        "text": [
+            "yeo"
+        ],
+        "image": [
+            " \u3155 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-yeo.mp3"
+        ]
+    },
+    "76": {
+        "text": [
+            "ye"
+        ],
+        "image": [
+            " \u3156 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-ye.mp3"
+        ]
+    },
+    "77": {
+        "text": [
+            "o"
+        ],
+        "image": [
+            " \u3157 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-o.mp3"
+        ]
+    },
+    "78": {
+        "text": [
+            "wa"
+        ],
+        "image": [
+            " \u3158 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-wa.mp3"
+        ]
+    },
+    "79": {
+        "text": [
+            "wae"
+        ],
+        "image": [
+            " \u3159 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-wae.mp3"
+        ]
+    },
+    "80": {
+        "text": [
+            "oe"
+        ],
+        "image": [
+            " \u315a "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-oe.mp3"
+        ]
+    },
+    "81": {
+        "text": [
+            "yo"
+        ],
+        "image": [
+            " \u315b "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-yo.mp3"
+        ]
+    },
+    "82": {
+        "text": [
+            "u"
+        ],
+        "image": [
+            " \u315c "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-u.mp3"
+        ]
+    },
+    "83": {
+        "text": [
+            "wo"
+        ],
+        "image": [
+            " \u315d "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-wo.mp3"
+        ]
+    },
+    "84": {
+        "text": [
+            "we"
+        ],
+        "image": [
+            " \u315e "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-we.mp3"
+        ]
+    },
+    "85": {
+        "text": [
+            "wi"
+        ],
+        "image": [
+            " \u315f "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-wi.mp3"
+        ]
+    },
+    "86": {
+        "text": [
+            "yu"
+        ],
+        "image": [
+            " \u3160 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-yu.mp3"
+        ]
+    },
+    "87": {
+        "text": [
+            "eu"
+        ],
+        "image": [
+            " \u3161 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-eu.mp3"
+        ]
+    },
+    "88": {
+        "text": [
+            "ui"
+        ],
+        "image": [
+            " \u3162 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-ui.mp3"
+        ]
+    },
+    "89": {
+        "text": [
+            "i"
+        ],
+        "image": [
+            " \u3163 "
+        ],
+        "sound": [
+            "https://90daykoreanaudiobytes.s3-us-west-1.amazonaws.com/audio-i.mp3"
+        ]
+    },
+    "90": {
+        "text": [
+            "A in Korean",
+            "\u314f"
+        ],
+        "image": [],
+        "sound": []
+    },
+    "91": {
+        "text": [
+            "B in Korean",
+            "\u3142"
+        ],
+        "image": [],
+        "sound": []
+    },
+    "92": {
+        "text": [
+            "C in Korean",
+            "\u314b"
+        ],
+        "image": [],
+        "sound": []
+    },
+    "93": {
+        "text": [
+            "D in Korean",
+            "\u3137, \u3138"
+        ],
+        "image": [],
+        "sound": []
+    },
+    "94": {
+        "text": [
+            "E in Korean",
+            "\u3154,\u3150"
+        ],
+        "image": [],
+        "sound": []
+    },
+    "95": {
+        "text": [
+            "F in Korean",
+            "\u314d"
+        ],
+        "image": [],
+        "sound": []
+    },
+    "96": {
+        "text": [
+            "G in Korean",
+            "\u3131"
+        ],
+        "image": [],
+        "sound": []
+    },
+    "97": {
+        "text": [
+            "H in Korean",
+            "\u314e"
+        ],
+        "image": [],
+        "sound": []
+    },
+    "98": {
+        "text": [
+            "I in Korean",
+            "\u3163"
+        ],
+        "image": [],
+        "sound": []
+    },
+    "99": {
+        "text": [
+            "J in Korean",
+            "\u3148"
+        ],
+        "image": [],
+        "sound": []
+    },
+    "100": {
+        "text": [
+            "K in Korean",
+            "\u3131, \u314b"
+        ],
+        "image": [],
+        "sound": []
+    },
+    "101": {
+        "text": [
+            "L in Korean",
+            "\u3139"
+        ],
+        "image": [],
+        "sound": []
+    },
+    "102": {
+        "text": [
+            "M in Korean",
+            "\u3141"
+        ],
+        "image": [],
+        "sound": []
+    },
+    "103": {
+        "text": [
+            "N in Korean",
+            "\u3134"
+        ],
+        "image": [],
+        "sound": []
+    },
+    "104": {
+        "text": [
+            "O in Korean",
+            "\u3157, \u3153"
+        ],
+        "image": [],
+        "sound": []
+    },
+    "105": {
+        "text": [
+            "P in Korean",
+            "\u3142, \u314d"
+        ],
+        "image": [],
+        "sound": []
+    },
+    "106": {
+        "text": [
+            "Q in Korean",
+            "\u314b"
+        ],
+        "image": [],
+        "sound": []
+    },
+    "107": {
+        "text": [
+            "R in Korean",
+            "\u3139"
+        ],
+        "image": [],
+        "sound": []
+    },
+    "108": {
+        "text": [
+            "S in Korean",
+            "\u3145"
+        ],
+        "image": [],
+        "sound": []
+    },
+    "109": {
+        "text": [
+            "T in Korean",
+            "\u314c"
+        ],
+        "image": [],
+        "sound": []
+    },
+    "110": {
+        "text": [
+            "U in Korean",
+            "\u315c"
+        ],
+        "image": [],
+        "sound": []
+    },
+    "111": {
+        "text": [
+            "V in Korean",
+            "\u3142"
+        ],
+        "image": [],
+        "sound": []
+    },
+    "112": {
+        "text": [
+            "W in Korean",
+            "\u315d, \u315f"
+        ],
+        "image": [],
+        "sound": []
+    },
+    "113": {
+        "text": [
+            "X in Korean",
+            "\u3148"
+        ],
+        "image": [],
+        "sound": []
+    },
+    "114": {
+        "text": [
+            "Y in Korean",
+            "\uc608, \uc598"
+        ],
+        "image": [],
+        "sound": []
+    },
+    "115": {
+        "text": [
+            "Z in Korean",
+            "\u3148"
+        ],
+        "image": [],
+        "sound": []
+    },
+    "116": {
+        "text": [
+            "1. United States",
+            "6. Vietnam"
+        ],
+        "image": [],
+        "sound": []
+    },
+    "117": {
+        "text": [
+            "2. China",
+            "7. Russia"
+        ],
+        "image": [],
+        "sound": []
+    },
+    "118": {
+        "text": [
+            "3. Japan",
+            "8. Australia"
+        ],
+        "image": [],
+        "sound": []
+    },
+    "119": {
+        "text": [
+            "4. Canada\u00a0",
+            "9. Kazakstan"
+        ],
+        "image": [],
+        "sound": []
+    },
+    "120": {
+        "text": [
+            "5. Uzbekistan",
+            "10. Philippines"
+        ],
+        "image": [],
+        "sound": []
+    }
+}
