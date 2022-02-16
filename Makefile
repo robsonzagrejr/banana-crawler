@@ -13,6 +13,9 @@ run_russian_alphabet:
 run_japanese_alphabet:
 	poetry run scrapy runspider banana_crawler/spiders/japanese_alphabet.py
 
+run_korean_alphabet:
+	poetry run scrapy runspider banana_crawler/spiders/korean_alphabet.py
+
 run_ref:
 	poetry run scrapy runspider ref/quotes_spider.py -o ref/quotes.jl
 	cat ref/quotes.jl
