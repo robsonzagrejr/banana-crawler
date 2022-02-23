@@ -7,4 +7,5 @@ authors = ["Robson Zagre Junior", "Wesly Carmesini Ataide"]
 [tool.poetry.dependencies]
 python=">=3.6"
 Scrapy="^2.5.1"
+genanki="^0.13.0"
 
