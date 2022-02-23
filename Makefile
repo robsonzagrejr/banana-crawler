@@ -20,6 +20,13 @@ run_ref:
 	poetry run scrapy runspider ref/quotes_spider.py -o ref/quotes.jl
 	cat ref/quotes.jl
 
+gen_korean_alphabet:
+	poetry run python ankideck/anki_creator.py \
+		-f banana_crawler/out/korean_alphabet.json \
+		-n korean_alphabet \
+		-o korean_alphabet
+		
+
 scrapy_shell:
 	poetry run scrapy shell $(shell_url)
 
