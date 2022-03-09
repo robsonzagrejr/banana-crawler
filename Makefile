@@ -21,12 +21,18 @@ run_ref:
 	cat ref/quotes.jl
 
 gen_korean_alphabet:
-	poetry run python ankideck/anki_creator.py \
-		-f banana_crawler/out/korean_alphabet.json \
+	poetry run python src/anki_creator.py \
+		-f data/korean_alphabet.json \
 		-n korean_alphabet \
-		-o korean_alphabet
+		-m assets/korean_alphabet/ \
+		-o assets/ankidecks/korean_alphabet
 		
-
+clean_korean_alphabet:
+	poetry run python src/preprocess_korean_alphabet.py \
+		-f banana_crawler/out/korean_alphabet.json \
+		-d assets/korean_alphabet/ \
+		-o data/korean_alphabet.json
+	
 scrapy_shell:
 	poetry run scrapy shell $(shell_url)
 

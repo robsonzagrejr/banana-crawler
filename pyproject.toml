@@ -5,7 +5,8 @@ description = "A web crawler to language learning"
 authors = ["Robson Zagre Junior", "Wesly Carmesini Ataide"]
 
 [tool.poetry.dependencies]
-python=">=3.6"
+python="3.8"
 Scrapy="^2.5.1"
 genanki="^0.13.0"
+requests="^2.27.1"
 
