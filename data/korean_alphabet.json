@@ -1,661 +1,242 @@
 {
     "0": {
-        "text": "g; k",
-        "image": [
-            " \u3131 "
-        ],
-        "sound": [
-            "audio-giyeok.mp3"
-        ]
+        "text_tl": " \u3131 ",
+        "image": "",
+        "sound": "audio-giyeok.mp3",
+        "text_nl": "g;k"
     },
     "1": {
-        "text": "kk; k",
-        "image": [
-            " \u3132 "
-        ],
-        "sound": [
-            "audio-ssanggiyeok-new.mp3"
-        ]
+        "text_tl": " \u3132 ",
+        "image": "",
+        "sound": "audio-ssanggiyeok-new.mp3",
+        "text_nl": "kk;k"
     },
     "2": {
-        "text": "n; n",
-        "image": [
-            " \u3134 "
-        ],
-        "sound": [
-            "audio-nieun-new.mp3"
-        ]
+        "text_tl": " \u3134 ",
+        "image": "",
+        "sound": "audio-nieun-new.mp3",
+        "text_nl": "n;n"
     },
     "3": {
-        "text": "d; t",
-        "image": [
-            " \u3137 "
-        ],
-        "sound": [
-            "audio-digeut.mp3"
-        ]
+        "text_tl": " \u3137 ",
+        "image": "",
+        "sound": "audio-digeut.mp3",
+        "text_nl": "d;t"
     },
     "4": {
-        "text": "tt; -",
-        "image": [
-            " \u3138 "
-        ],
-        "sound": [
-            "audio-ssangdigeut.mp3"
-        ]
+        "text_tl": " \u3138 ",
+        "image": "",
+        "sound": "audio-ssangdigeut.mp3",
+        "text_nl": "tt;-"
     },
     "5": {
-        "text": "r; l",
-        "image": [
-            " \u3139 "
-        ],
-        "sound": [
-            "audio-rieul.mp3"
-        ]
+        "text_tl": " \u3139 ",
+        "image": "",
+        "sound": "audio-rieul.mp3",
+        "text_nl": "r;l"
     },
     "6": {
-        "text": "m; m",
-        "image": [
-            " \u3141 "
-        ],
-        "sound": [
-            "audio-mieum.mp3"
-        ]
+        "text_tl": " \u3141 ",
+        "image": "",
+        "sound": "audio-mieum.mp3",
+        "text_nl": "m;m"
     },
     "7": {
-        "text": "b; p",
-        "image": [
-            " \u3142 "
-        ],
-        "sound": [
-            "audio-bieup.mp3"
-        ]
+        "text_tl": " \u3142 ",
+        "image": "",
+        "sound": "audio-bieup.mp3",
+        "text_nl": "b;p"
     },
     "8": {
-        "text": "pp; -",
-        "image": [
-            " \u3143 "
-        ],
-        "sound": [
-            "audio-ssangbieup.mp3"
-        ]
+        "text_tl": " \u3143 ",
+        "image": "",
+        "sound": "audio-ssangbieup.mp3",
+        "text_nl": "pp;-"
     },
     "9": {
-        "text": "s; t",
-        "image": [
-            " \u3145 "
-        ],
-        "sound": [
-            "audio-siot.mp3"
-        ]
+        "text_tl": " \u3145 ",
+        "image": "",
+        "sound": "audio-siot.mp3",
+        "text_nl": "s;t"
     },
     "10": {
-        "text": "ss; t",
-        "image": [
-            " \u3146 "
-        ],
-        "sound": [
-            "audio-ssangsiot.mp3"
-        ]
+        "text_tl": " \u3146 ",
+        "image": "",
+        "sound": "audio-ssangsiot.mp3",
+        "text_nl": "ss;t"
     },
     "11": {
-        "text": "-; ng",
-        "image": [
-            " \u3147 "
-        ],
-        "sound": [
-            "audio-ieung.mp3"
-        ]
+        "text_tl": " \u3147 ",
+        "image": "",
+        "sound": "audio-ieung.mp3",
+        "text_nl": "-;ng"
     },
     "12": {
-        "text": "j; t",
-        "image": [
-            " \u3148 "
-        ],
-        "sound": [
-            "audio-jieut.mp3"
-        ]
+        "text_tl": " \u3148 ",
+        "image": "",
+        "sound": "audio-jieut.mp3",
+        "text_nl": "j;t"
     },
     "13": {
-        "text": "jj; -",
-        "image": [
-            " \u3149 "
-        ],
-        "sound": [
-            "audio-ssangjieut.mp3"
-        ]
+        "text_tl": " \u3149 ",
+        "image": "",
+        "sound": "audio-ssangjieut.mp3",
+        "text_nl": "jj;-"
     },
     "14": {
-        "text": "ch; t",
-        "image": [
-            " \u314a "
-        ],
-        "sound": [
-            "audio-chieut.mp3"
-        ]
+        "text_tl": " \u314a ",
+        "image": "",
+        "sound": "audio-chieut.mp3",
+        "text_nl": "ch;t"
     },
     "15": {
-        "text": "k; k",
-        "image": [
-            " \u314b "
-        ],
-        "sound": [
-            "audio-kieuk.mp3"
-        ]
+        "text_tl": " \u314b ",
+        "image": "",
+        "sound": "audio-kieuk.mp3",
+        "text_nl": "k;k"
     },
     "16": {
-        "text": "t; t",
-        "image": [
-            " \u314c "
-        ],
-        "sound": [
-            "audio-tieut-new.mp3"
-        ]
+        "text_tl": " \u314c ",
+        "image": "",
+        "sound": "audio-tieut-new.mp3",
+        "text_nl": "t;t"
     },
     "17": {
-        "text": "p; p",
-        "image": [
-            " \u314d "
-        ],
-        "sound": [
-            "audio-pieup-new.mp3"
-        ]
+        "text_tl": " \u314d ",
+        "image": "",
+        "sound": "audio-pieup-new.mp3",
+        "text_nl": "p;p"
     },
     "18": {
-        "text": "h; t",
-        "image": [
-            " \u314e "
-        ],
-        "sound": [
-            "audio-hieut.mp3"
-        ]
+        "text_tl": " \u314e ",
+        "image": "",
+        "sound": "audio-hieut.mp3",
+        "text_nl": "h;t"
     },
     "19": {
-        "text": "a",
-        "image": [
-            " \u314f "
-        ],
-        "sound": [
-            "audio-a.mp3"
-        ]
+        "text_tl": " \u314f ",
+        "image": "",
+        "sound": "audio-a.mp3",
+        "text_nl": "a"
     },
     "20": {
-        "text": "ae",
-        "image": [
-            " \u3150 "
-        ],
-        "sound": [
-            "audio-ae.mp3"
-        ]
+        "text_tl": " \u3150 ",
+        "image": "",
+        "sound": "audio-ae.mp3",
+        "text_nl": "ae"
     },
     "21": {
-        "text": "ya",
-        "image": [
-            " \u3151 "
-        ],
-        "sound": [
-            "audio-ya.mp3"
-        ]
+        "text_tl": " \u3151 ",
+        "image": "",
+        "sound": "audio-ya.mp3",
+        "text_nl": "ya"
     },
     "22": {
-        "text": "yae",
-        "image": [
-            " \u3152 "
-        ],
-        "sound": [
-            "audio-yae.mp3"
-        ]
+        "text_tl": " \u3152 ",
+        "image": "",
+        "sound": "audio-yae.mp3",
+        "text_nl": "yae"
     },
     "23": {
-        "text": "eo",
-        "image": [
-            " \u3153 "
-        ],
-        "sound": [
-            "audio-eo.mp3"
-        ]
+        "text_tl": " \u3153 ",
+        "image": "",
+        "sound": "audio-eo.mp3",
+        "text_nl": "eo"
     },
     "24": {
-        "text": "e",
-        "image": [
-            " \u3154 "
-        ],
-        "sound": [
-            "audio-e.mp3"
-        ]
+        "text_tl": " \u3154 ",
+        "image": "",
+        "sound": "audio-e.mp3",
+        "text_nl": "e"
     },
     "25": {
-        "text": "yeo",
-        "image": [
-            " \u3155 "
-        ],
-        "sound": [
-            "audio-yeo.mp3"
-        ]
+        "text_tl": " \u3155 ",
+        "image": "",
+        "sound": "audio-yeo.mp3",
+        "text_nl": "yeo"
     },
     "26": {
-        "text": "ye",
-        "image": [
-            " \u3156 "
-        ],
-        "sound": [
-            "audio-ye.mp3"
-        ]
+        "text_tl": " \u3156 ",
+        "image": "",
+        "sound": "audio-ye.mp3",
+        "text_nl": "ye"
     },
     "27": {
-        "text": "o",
-        "image": [
-            " \u3157 "
-        ],
-        "sound": [
-            "audio-o.mp3"
-        ]
+        "text_tl": " \u3157 ",
+        "image": "",
+        "sound": "audio-o.mp3",
+        "text_nl": "o"
     },
     "28": {
-        "text": "wa",
-        "image": [
-            " \u3158 "
-        ],
-        "sound": [
-            "audio-wa.mp3"
-        ]
+        "text_tl": " \u3158 ",
+        "image": "",
+        "sound": "audio-wa.mp3",
+        "text_nl": "wa"
     },
     "29": {
-        "text": "wae",
-        "image": [
-            " \u3159 "
-        ],
-        "sound": [
-            "audio-wae.mp3"
-        ]
+        "text_tl": " \u3159 ",
+        "image": "",
+        "sound": "audio-wae.mp3",
+        "text_nl": "wae"
     },
     "30": {
-        "text": "oe",
-        "image": [
-            " \u315a "
-        ],
-        "sound": [
-            "audio-oe.mp3"
-        ]
+        "text_tl": " \u315a ",
+        "image": "",
+        "sound": "audio-oe.mp3",
+        "text_nl": "oe"
     },
     "31": {
-        "text": "yo",
-        "image": [
-            " \u315b "
-        ],
-        "sound": [
-            "audio-yo.mp3"
-        ]
+        "text_tl": " \u315b ",
+        "image": "",
+        "sound": "audio-yo.mp3",
+        "text_nl": "yo"
     },
     "32": {
-        "text": "u",
-        "image": [
-            " \u315c "
-        ],
-        "sound": [
-            "audio-u.mp3"
-        ]
+        "text_tl": " \u315c ",
+        "image": "",
+        "sound": "audio-u.mp3",
+        "text_nl": "u"
     },
     "33": {
-        "text": "wo",
-        "image": [
-            " \u315d "
-        ],
-        "sound": [
-            "audio-wo.mp3"
-        ]
+        "text_tl": " \u315d ",
+        "image": "",
+        "sound": "audio-wo.mp3",
+        "text_nl": "wo"
     },
     "34": {
-        "text": "we",
-        "image": [
-            " \u315e "
-        ],
-        "sound": [
-            "audio-we.mp3"
-        ]
+        "text_tl": " \u315e ",
+        "image": "",
+        "sound": "audio-we.mp3",
+        "text_nl": "we"
     },
     "35": {
-        "text": "wi",
-        "image": [
-            " \u315f "
-        ],
-        "sound": [
-            "audio-wi.mp3"
-        ]
+        "text_tl": " \u315f ",
+        "image": "",
+        "sound": "audio-wi.mp3",
+        "text_nl": "wi"
     },
     "36": {
-        "text": "yu",
-        "image": [
-            " \u3160 "
-        ],
-        "sound": [
-            "audio-yu.mp3"
-        ]
+        "text_tl": " \u3160 ",
+        "image": "",
+        "sound": "audio-yu.mp3",
+        "text_nl": "yu"
     },
     "37": {
-        "text": "eu",
-        "image": [
-            " \u3161 "
-        ],
-        "sound": [
-            "audio-eu.mp3"
-        ]
+        "text_tl": " \u3161 ",
+        "image": "",
+        "sound": "audio-eu.mp3",
+        "text_nl": "eu"
     },
     "38": {
-        "text": "ui",
-        "image": [
-            " \u3162 "
-        ],
-        "sound": [
-            "audio-ui.mp3"
-        ]
+        "text_tl": " \u3162 ",
+        "image": "",
+        "sound": "audio-ui.mp3",
+        "text_nl": "ui"
     },
     "39": {
-        "text": "i",
-        "image": [
-            " \u3163 "
-        ],
-        "sound": [
-            "audio-i.mp3"
-        ]
-    },
-    "40": {
-        "text": "k",
-        "image": [
-            " \u3131 "
-        ],
-        "sound": [
-            "audio-giyeok.mp3"
-        ]
-    },
-    "41": {
-        "text": "kk",
-        "image": [
-            " \u3132 "
-        ],
-        "sound": [
-            "audio-ssanggiyeok-new.mp3"
-        ]
-    },
-    "42": {
-        "text": "d",
-        "image": [
-            " \u3137 "
-        ],
-        "sound": [
-            "audio-digeut.mp3"
-        ]
-    },
-    "43": {
-        "text": "dd",
-        "image": [
-            " \u3138 "
-        ],
-        "sound": [
-            "audio-ssangdigeut.mp3"
-        ]
-    },
-    "44": {
-        "text": "j",
-        "image": [
-            " \u3148 "
-        ],
-        "sound": [
-            "audio-jieut.mp3"
-        ]
-    },
-    "45": {
-        "text": "jj",
-        "image": [
-            " \u3149 "
-        ],
-        "sound": [
-            "audio-ssangjieut.mp3"
-        ]
-    },
-    "46": {
-        "text": "b",
-        "image": [
-            " \u3142 "
-        ],
-        "sound": [
-            "audio-bieup.mp3"
-        ]
-    },
-    "47": {
-        "text": "bb",
-        "image": [
-            " \u3143 "
-        ],
-        "sound": [
-            "audio-ssangbieup.mp3"
-        ]
-    },
-    "48": {
-        "text": "s",
-        "image": [
-            " \u3145 "
-        ],
-        "sound": [
-            "audio-siot.mp3"
-        ]
-    },
-    "49": {
-        "text": "ss",
-        "image": [
-            " \u3146 "
-        ],
-        "sound": [
-            "audio-ssangsiot-new.mp3"
-        ]
-    },
-    "50": {
-        "text": "giyeok",
-        "image": [
-            " \u3131 ",
-            " \uae30\uc5ed "
-        ],
-        "sound": [
-            "audio-giyeok.mp3",
-            "audio-giyeok-name.mp3"
-        ]
-    },
-    "51": {
-        "text": "ssangiyeok",
-        "image": [
-            " \u3132 ",
-            " \uc30d\uae30\uc5ed "
-        ],
-        "sound": [
-            "audio-ssanggiyeok-new.mp3",
-            "audio-ssanggiyeok-name.mp3"
-        ]
-    },
-    "52": {
-        "text": "nieun",
-        "image": [
-            " \u3134 ",
-            " \ub2c8\uc740 "
-        ],
-        "sound": [
-            "audio-nieun-new.mp3",
-            "audio-nieun-name.mp3"
-        ]
-    },
-    "53": {
-        "text": "digeut",
-        "image": [
-            " \u3137 ",
-            " \ub514\uadff "
-        ],
-        "sound": [
-            "audio-digeut.mp3",
-            "audio-digeut-name.mp3"
-        ]
-    },
-    "54": {
-        "text": "ssangdigeut",
-        "image": [
-            " \u3138 ",
-            " \uc30d\ub514\uadff "
-        ],
-        "sound": [
-            "audio-ssangdigeut.mp3",
-            "audio-ssangdigeut-name.mp3"
-        ]
-    },
-    "55": {
-        "text": "rieul",
-        "image": [
-            " \u3139 ",
-            " \ub9ac\uc744 "
-        ],
-        "sound": [
-            "audio-rieul.mp3",
-            "audio-rieul-name.mp3"
-        ]
-    },
-    "56": {
-        "text": "mieum",
-        "image": [
-            " \u3141 ",
-            " \ubbf8\uc74c "
-        ],
-        "sound": [
-            "audio-mieum.mp3",
-            "audio-mieum-name.mp3"
-        ]
-    },
-    "57": {
-        "text": "bieup",
-        "image": [
-            " \u3142 ",
-            " \ube44\uc74d "
-        ],
-        "sound": [
-            "audio-bieup.mp3",
-            "audio-bieup-name.mp3"
-        ]
-    },
-    "58": {
-        "text": "ssangbieup",
-        "image": [
-            " \u3143 ",
-            " \uc30d\ube44\uc74d "
-        ],
-        "sound": [
-            "audio-ssangbieup.mp3",
-            "audio-ssangbieup-name.mp3"
-        ]
-    },
-    "59": {
-        "text": "siot",
-        "image": [
-            " \u3145 ",
-            " \uc2dc\uc637 "
-        ],
-        "sound": [
-            "audio-siot.mp3",
-            "audio-siot-name.mp3"
-        ]
-    },
-    "60": {
-        "text": "ssangsiot",
-        "image": [
-            " \u3146 ",
-            " \uc30d\uc2dc\uc637 "
-        ],
-        "sound": [
-            "audio-ssangsiot.mp3",
-            "audio-ssangsiot-name.mp3"
-        ]
-    },
-    "61": {
-        "text": "ieung",
-        "image": [
-            " \u3147 ",
-            " \uc774\uc751 "
-        ],
-        "sound": [
-            "audio-ieung.mp3",
-            "audio-ieung-name.mp3"
-        ]
-    },
-    "62": {
-        "text": "jieut",
-        "image": [
-            " \u3148 ",
-            " \uc9c0\uc752 "
-        ],
-        "sound": [
-            "audio-jieut.mp3",
-            "audio-jieut-name.mp3"
-        ]
-    },
-    "63": {
-        "text": "ssangjieut",
-        "image": [
-            " \u3149 ",
-            " \uc30d\uc9c0\uc752 "
-        ],
-        "sound": [
-            "audio-ssangjieut.mp3",
-            "audio-ssangjieut-name.mp3"
-        ]
-    },
-    "64": {
-        "text": "chieut",
-        "image": [
-            " \u314a ",
-            " \uce58\uc753 "
-        ],
-        "sound": [
-            "audio-chieut.mp3",
-            "audio-chieut-name.mp3"
-        ]
-    },
-    "65": {
-        "text": "kieuk",
-        "image": [
-            " \u314b ",
-            " \ud0a4\uc754 "
-        ],
-        "sound": [
-            "audio-kieuk.mp3",
-            "audio-kieuk-name.mp3"
-        ]
-    },
-    "66": {
-        "text": "tieut",
-        "image": [
-            " \u314c ",
-            " \ud2f0\uc755 "
-        ],
-        "sound": [
-            "audio-tieut-new.mp3",
-            "audio-tieut-name.mp3"
-        ]
-    },
-    "67": {
-        "text": "pieup",
-        "image": [
-            " \u314d ",
-            " \ud53c\uc756 "
-        ],
-        "sound": [
-            "audio-pieup-new.mp3",
-            "audio-pieup-name.mp3"
-        ]
-    },
-    "68": {
-        "text": "hieut",
-        "image": [
-            " \u314e ",
-            " \ud788\uc757 "
-        ],
-        "sound": [
-            "audio-hieut.mp3",
-            "audio-hieut-name.mp3"
-        ]
+        "text_tl": " \u3163 ",
+        "image": "",
+        "sound": "audio-i.mp3",
+        "text_nl": "i"
     }
 }
