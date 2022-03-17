@@ -3,22 +3,8 @@ import json
 import argparse
 import genanki
 
-model = genanki.Model(
-  1111,
-  'Simple Model',
-  fields=[
-    {'name': 'Question'},
-    {'name': 'Answer'},
-  ],
-  templates=[
-    {
-      'name': 'Card 1',
-      'qfmt': '{{Question}}',
-      'afmt': '{{FrontSide}}<hr id="answer">{{Answer}}',
-    },
-  ]
-)
-model_sound = genanki.Model(
+
+model= genanki.Model(
   1111,
   'Simple Model',
   fields=[
@@ -30,30 +16,31 @@ model_sound = genanki.Model(
   templates=[
     {
       'name': 'Card 1',
-      'qfmt': '<div style="font-sinze:50; text-align:center">{{Question}}<br>{{MyMedia}}</div>',
+      'qfmt': '<div style="font-sinze:100; text-align:center">{{Question}}<br>{{MyImage}}<br>{{MySound}}</div>',
       'afmt': '{{FrontSide}}<hr id="answer">{{Answer}}',
     },
   ]
 )
 
 
-def gen_anki_note(id, text, image, sound):
+def gen_anki_note(id, text_tl, text_nl, image, sound):
     return genanki.Note(
-        model=model_sound,
-        fields=[";".join(image), ";".join(text), f"[sound:{sound}]", f"[sound:{sound}]"]
+        model=model,
+        fields=[text_tl, text_nl, f"<img src='{image}'>", f"[sound:{sound}]"]
     )
 
 
 def gen_anki_deck(data, deck_name, midia_path, file_name):
-    deck_id = 22222
+    deck_id = 10101
     deck = genanki.Deck(deck_id, deck_name)
 
     for note_id, note_data in data.items():
         deck.add_note(gen_anki_note(
             id=note_id,
-            text=note_data["text"],
+            text_tl=note_data["text_tl"],
+            text_nl=note_data["text_nl"],
             image=note_data["image"],
-            sound=note_data["sound"][0],
+            sound=note_data["sound"],
         ))
 
     package = genanki.Package(deck)
