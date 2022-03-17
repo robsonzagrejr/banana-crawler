@@ -1,0 +1,614 @@
+{
+    "0": {
+        "text_tl": "",
+        "image": "a.png",
+        "sound": "",
+        "text_nl": "a"
+    },
+    "1": {
+        "text_tl": "",
+        "image": "i.png",
+        "sound": "",
+        "text_nl": "i"
+    },
+    "2": {
+        "text_tl": "",
+        "image": "u.png",
+        "sound": "",
+        "text_nl": "u"
+    },
+    "3": {
+        "text_tl": "",
+        "image": "e.png",
+        "sound": "",
+        "text_nl": "e"
+    },
+    "4": {
+        "text_tl": "",
+        "image": "o.png",
+        "sound": "",
+        "text_nl": "o"
+    },
+    "5": {
+        "text_tl": "",
+        "image": "ka.png",
+        "sound": "",
+        "text_nl": "ka"
+    },
+    "6": {
+        "text_tl": "",
+        "image": "ki.png",
+        "sound": "",
+        "text_nl": "ki"
+    },
+    "7": {
+        "text_tl": "",
+        "image": "ku.png",
+        "sound": "",
+        "text_nl": "ku"
+    },
+    "8": {
+        "text_tl": "",
+        "image": "ke.png",
+        "sound": "",
+        "text_nl": "ke"
+    },
+    "9": {
+        "text_tl": "",
+        "image": "ko.png",
+        "sound": "",
+        "text_nl": "ko"
+    },
+    "10": {
+        "text_tl": "",
+        "image": "sa.png",
+        "sound": "",
+        "text_nl": "sa"
+    },
+    "11": {
+        "text_tl": "",
+        "image": "shi.png",
+        "sound": "",
+        "text_nl": "shi"
+    },
+    "12": {
+        "text_tl": "",
+        "image": "su.png",
+        "sound": "",
+        "text_nl": "su"
+    },
+    "13": {
+        "text_tl": "",
+        "image": "se.png",
+        "sound": "",
+        "text_nl": "se"
+    },
+    "14": {
+        "text_tl": "",
+        "image": "so.png",
+        "sound": "",
+        "text_nl": "so"
+    },
+    "15": {
+        "text_tl": "",
+        "image": "ta.png",
+        "sound": "",
+        "text_nl": "ta"
+    },
+    "16": {
+        "text_tl": "",
+        "image": "chi.png",
+        "sound": "",
+        "text_nl": "chi"
+    },
+    "17": {
+        "text_tl": "",
+        "image": "tsu.png",
+        "sound": "",
+        "text_nl": "tsu"
+    },
+    "18": {
+        "text_tl": "",
+        "image": "te.png",
+        "sound": "",
+        "text_nl": "te"
+    },
+    "19": {
+        "text_tl": "",
+        "image": "to.png",
+        "sound": "",
+        "text_nl": "to"
+    },
+    "20": {
+        "text_tl": "",
+        "image": "na.png",
+        "sound": "",
+        "text_nl": "na"
+    },
+    "21": {
+        "text_tl": "",
+        "image": "ni.png",
+        "sound": "",
+        "text_nl": "ni"
+    },
+    "22": {
+        "text_tl": "",
+        "image": "nu.png",
+        "sound": "",
+        "text_nl": "nu"
+    },
+    "23": {
+        "text_tl": "",
+        "image": "ne.png",
+        "sound": "",
+        "text_nl": "ne"
+    },
+    "24": {
+        "text_tl": "",
+        "image": "no.png",
+        "sound": "",
+        "text_nl": "no"
+    },
+    "25": {
+        "text_tl": "",
+        "image": "ha.png",
+        "sound": "",
+        "text_nl": "ha"
+    },
+    "26": {
+        "text_tl": "",
+        "image": "hi.png",
+        "sound": "",
+        "text_nl": "hi"
+    },
+    "27": {
+        "text_tl": "",
+        "image": "fu.png",
+        "sound": "",
+        "text_nl": "fu"
+    },
+    "28": {
+        "text_tl": "",
+        "image": "he.png",
+        "sound": "",
+        "text_nl": "he"
+    },
+    "29": {
+        "text_tl": "",
+        "image": "ho.png",
+        "sound": "",
+        "text_nl": "ho"
+    },
+    "30": {
+        "text_tl": "",
+        "image": "ma.png",
+        "sound": "",
+        "text_nl": "ma"
+    },
+    "31": {
+        "text_tl": "",
+        "image": "mi.png",
+        "sound": "",
+        "text_nl": "mi"
+    },
+    "32": {
+        "text_tl": "",
+        "image": "mu.png",
+        "sound": "",
+        "text_nl": "mu"
+    },
+    "33": {
+        "text_tl": "",
+        "image": "me.png",
+        "sound": "",
+        "text_nl": "me"
+    },
+    "34": {
+        "text_tl": "",
+        "image": "mo.png",
+        "sound": "",
+        "text_nl": "mo"
+    },
+    "35": {
+        "text_tl": "",
+        "image": "ya.png",
+        "sound": "",
+        "text_nl": "ya"
+    },
+    "37": {
+        "text_tl": "",
+        "image": "yu.png",
+        "sound": "",
+        "text_nl": "yu"
+    },
+    "39": {
+        "text_tl": "",
+        "image": "yo.png",
+        "sound": "",
+        "text_nl": "yo"
+    },
+    "40": {
+        "text_tl": "",
+        "image": "ra.png",
+        "sound": "",
+        "text_nl": "ra"
+    },
+    "41": {
+        "text_tl": "",
+        "image": "ri.png",
+        "sound": "",
+        "text_nl": "ri"
+    },
+    "42": {
+        "text_tl": "",
+        "image": "ru.png",
+        "sound": "",
+        "text_nl": "ru"
+    },
+    "43": {
+        "text_tl": "",
+        "image": "re.png",
+        "sound": "",
+        "text_nl": "re"
+    },
+    "44": {
+        "text_tl": "",
+        "image": "ro.png",
+        "sound": "",
+        "text_nl": "ro"
+    },
+    "45": {
+        "text_tl": "",
+        "image": "wa.png",
+        "sound": "",
+        "text_nl": "wa"
+    },
+    "47": {
+        "text_tl": "",
+        "image": "wo.png",
+        "sound": "",
+        "text_nl": "wo"
+    },
+    "49": {
+        "text_tl": "",
+        "image": "n.png",
+        "sound": "",
+        "text_nl": "n"
+    },
+    "50": {
+        "text_tl": "",
+        "image": "ga.png",
+        "sound": "",
+        "text_nl": "ga"
+    },
+    "51": {
+        "text_tl": "",
+        "image": "gi.png",
+        "sound": "",
+        "text_nl": "gi"
+    },
+    "52": {
+        "text_tl": "",
+        "image": "gu.png",
+        "sound": "",
+        "text_nl": "gu"
+    },
+    "53": {
+        "text_tl": "",
+        "image": "ge.png",
+        "sound": "",
+        "text_nl": "ge"
+    },
+    "54": {
+        "text_tl": "",
+        "image": "go.png",
+        "sound": "",
+        "text_nl": "go"
+    },
+    "55": {
+        "text_tl": "",
+        "image": "za.png",
+        "sound": "",
+        "text_nl": "za"
+    },
+    "56": {
+        "text_tl": "",
+        "image": "ji.png",
+        "sound": "",
+        "text_nl": "ji"
+    },
+    "57": {
+        "text_tl": "",
+        "image": "zu.png",
+        "sound": "",
+        "text_nl": "zu"
+    },
+    "58": {
+        "text_tl": "",
+        "image": "ze.png",
+        "sound": "",
+        "text_nl": "ze"
+    },
+    "59": {
+        "text_tl": "",
+        "image": "zo.png",
+        "sound": "",
+        "text_nl": "zo"
+    },
+    "60": {
+        "text_tl": "",
+        "image": "da.png",
+        "sound": "",
+        "text_nl": "da"
+    },
+    "63": {
+        "text_tl": "",
+        "image": "de.png",
+        "sound": "",
+        "text_nl": "de"
+    },
+    "64": {
+        "text_tl": "",
+        "image": "do.png",
+        "sound": "",
+        "text_nl": "do"
+    },
+    "65": {
+        "text_tl": "",
+        "image": "ba.png",
+        "sound": "",
+        "text_nl": "ba"
+    },
+    "66": {
+        "text_tl": "",
+        "image": "bi.png",
+        "sound": "",
+        "text_nl": "bi"
+    },
+    "67": {
+        "text_tl": "",
+        "image": "bu.png",
+        "sound": "",
+        "text_nl": "bu"
+    },
+    "68": {
+        "text_tl": "",
+        "image": "be.png",
+        "sound": "",
+        "text_nl": "be"
+    },
+    "69": {
+        "text_tl": "",
+        "image": "bo.png",
+        "sound": "",
+        "text_nl": "bo"
+    },
+    "70": {
+        "text_tl": "",
+        "image": "pa.png",
+        "sound": "",
+        "text_nl": "pa"
+    },
+    "71": {
+        "text_tl": "",
+        "image": "pi.png",
+        "sound": "",
+        "text_nl": "pi"
+    },
+    "72": {
+        "text_tl": "",
+        "image": "pu.png",
+        "sound": "",
+        "text_nl": "pu"
+    },
+    "73": {
+        "text_tl": "",
+        "image": "pe.png",
+        "sound": "",
+        "text_nl": "pe"
+    },
+    "74": {
+        "text_tl": "",
+        "image": "po.png",
+        "sound": "",
+        "text_nl": "po"
+    },
+    "75": {
+        "text_tl": "",
+        "image": "kya.png",
+        "sound": "",
+        "text_nl": "kya"
+    },
+    "76": {
+        "text_tl": "",
+        "image": "kyu.png",
+        "sound": "",
+        "text_nl": "kyu"
+    },
+    "77": {
+        "text_tl": "",
+        "image": "kyo.png",
+        "sound": "",
+        "text_nl": "kyo"
+    },
+    "78": {
+        "text_tl": "",
+        "image": "sha.png",
+        "sound": "",
+        "text_nl": "sha"
+    },
+    "79": {
+        "text_tl": "",
+        "image": "shu.png",
+        "sound": "",
+        "text_nl": "shu"
+    },
+    "80": {
+        "text_tl": "",
+        "image": "sho.png",
+        "sound": "",
+        "text_nl": "sho"
+    },
+    "81": {
+        "text_tl": "",
+        "image": "cha.png",
+        "sound": "",
+        "text_nl": "cha"
+    },
+    "82": {
+        "text_tl": "",
+        "image": "chu.png",
+        "sound": "",
+        "text_nl": "chu"
+    },
+    "83": {
+        "text_tl": "",
+        "image": "cho.png",
+        "sound": "",
+        "text_nl": "cho"
+    },
+    "84": {
+        "text_tl": "",
+        "image": "nya.png",
+        "sound": "",
+        "text_nl": "nya"
+    },
+    "85": {
+        "text_tl": "",
+        "image": "nyu.png",
+        "sound": "",
+        "text_nl": "nyu"
+    },
+    "86": {
+        "text_tl": "",
+        "image": "nyo.png",
+        "sound": "",
+        "text_nl": "nyo"
+    },
+    "87": {
+        "text_tl": "",
+        "image": "hya.png",
+        "sound": "",
+        "text_nl": "hya"
+    },
+    "88": {
+        "text_tl": "",
+        "image": "hyu.png",
+        "sound": "",
+        "text_nl": "hyu"
+    },
+    "89": {
+        "text_tl": "",
+        "image": "hyo.png",
+        "sound": "",
+        "text_nl": "hyo"
+    },
+    "90": {
+        "text_tl": "",
+        "image": "mya.png",
+        "sound": "",
+        "text_nl": "mya"
+    },
+    "91": {
+        "text_tl": "",
+        "image": "myu.png",
+        "sound": "",
+        "text_nl": "myu"
+    },
+    "92": {
+        "text_tl": "",
+        "image": "myo.png",
+        "sound": "",
+        "text_nl": "myo"
+    },
+    "93": {
+        "text_tl": "",
+        "image": "rya.png",
+        "sound": "",
+        "text_nl": "rya"
+    },
+    "94": {
+        "text_tl": "",
+        "image": "ryu.png",
+        "sound": "",
+        "text_nl": "ryu"
+    },
+    "95": {
+        "text_tl": "",
+        "image": "ryo.png",
+        "sound": "",
+        "text_nl": "ryo"
+    },
+    "96": {
+        "text_tl": "",
+        "image": "gya.png",
+        "sound": "",
+        "text_nl": "gya"
+    },
+    "97": {
+        "text_tl": "",
+        "image": "gyu.png",
+        "sound": "",
+        "text_nl": "gyu"
+    },
+    "98": {
+        "text_tl": "",
+        "image": "gyo.png",
+        "sound": "",
+        "text_nl": "gyo"
+    },
+    "99": {
+        "text_tl": "",
+        "image": "ja.png",
+        "sound": "",
+        "text_nl": "ja"
+    },
+    "100": {
+        "text_tl": "",
+        "image": "ju.png",
+        "sound": "",
+        "text_nl": "ju"
+    },
+    "101": {
+        "text_tl": "",
+        "image": "jo.png",
+        "sound": "",
+        "text_nl": "jo"
+    },
+    "102": {
+        "text_tl": "",
+        "image": "bya.png",
+        "sound": "",
+        "text_nl": "bya"
+    },
+    "103": {
+        "text_tl": "",
+        "image": "byu.png",
+        "sound": "",
+        "text_nl": "byu"
+    },
+    "104": {
+        "text_tl": "",
+        "image": "byo.png",
+        "sound": "",
+        "text_nl": "byo"
+    },
+    "105": {
+        "text_tl": "",
+        "image": "pya.png",
+        "sound": "",
+        "text_nl": "pya"
+    },
+    "106": {
+        "text_tl": "",
+        "image": "pyu.png",
+        "sound": "",
+        "text_nl": "pyu"
+    },
+    "107": {
+        "text_tl": "",
+        "image": "pyo.png",
+        "sound": "",
+        "text_nl": "pyo"
+    }
+}

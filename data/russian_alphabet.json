@@ -1,0 +1,200 @@
+{
+    "0": {
+        "text_tl": "\u0410 \u0430",
+        "image": "a2.jpg",
+        "sound": "Sound1.mp3",
+        "text_nl": "a like ar  in far"
+    },
+    "1": {
+        "text_tl": "\u0411 \u0431",
+        "image": "b2.jpg",
+        "sound": "Sound2.mp3",
+        "text_nl": "be like  b in box"
+    },
+    "2": {
+        "text_tl": "\u0412 \u0432",
+        "image": "v2.jpg",
+        "sound": "Sound3.mp3",
+        "text_nl": "ve like  v  in voice"
+    },
+    "3": {
+        "text_tl": "\u0413 \u0433",
+        "image": "g2.jpg",
+        "sound": "Sound4.mp3",
+        "text_nl": "ge like  g in go"
+    },
+    "4": {
+        "text_tl": "\u0414 \u0434",
+        "image": "d2.jpg",
+        "sound": "Sound5.mp3",
+        "text_nl": "de like  d in day"
+    },
+    "5": {
+        "text_tl": "\u0415 \u0435",
+        "image": "e2.jpg",
+        "sound": "Sound6.mp3",
+        "text_nl": "ye like  ye in yet or  e in exit"
+    },
+    "6": {
+        "text_tl": "\u0401 \u0451",
+        "image": "yo2.jpg",
+        "sound": "Sound7.mp3",
+        "text_nl": "yo like  yo in your"
+    },
+    "7": {
+        "text_tl": "\u0416 \u0436",
+        "image": "zh2.jpg",
+        "sound": "Sound8.mp3",
+        "text_nl": "zhe like  s in pleasure"
+    },
+    "8": {
+        "text_tl": "\u0417 \u0437",
+        "image": "z2.jpg",
+        "sound": "Sound9.mp3",
+        "text_nl": "ze like  z in zoo"
+    },
+    "9": {
+        "text_tl": "\u0418 \u0438",
+        "image": "ee2.jpg",
+        "sound": "Sound10.mp3",
+        "text_nl": "ee like  ee in meet"
+    },
+    "10": {
+        "text_tl": "\u0419 \u0439",
+        "image": "ee_kratkoe2.jpg",
+        "sound": "Sound11.mp3",
+        "text_nl": "ee kratkoye (short i) like  y  in boy"
+    },
+    "11": {
+        "text_tl": "\u041a \u043a",
+        "image": "k2.jpg",
+        "sound": "Sound12.mp3",
+        "text_nl": "ka like  k in key or  c in cat"
+    },
+    "12": {
+        "text_tl": "\u041b \u043b",
+        "image": "l2.jpg",
+        "sound": "Sound13.mp3",
+        "text_nl": "el like l  in lamp"
+    },
+    "13": {
+        "text_tl": "\u041c \u043c",
+        "image": "m2.jpg",
+        "sound": "Sound14.mp3",
+        "text_nl": "em like  m in man"
+    },
+    "14": {
+        "text_tl": "\u041d \u043d",
+        "image": "n2.jpg",
+        "sound": "Sound15.mp3",
+        "text_nl": "en like  n in note"
+    },
+    "15": {
+        "text_tl": "\u041e \u043e",
+        "image": "o2.jpg",
+        "sound": "Sound16.mp3",
+        "text_nl": "o like  o in not"
+    },
+    "16": {
+        "text_tl": "\u041f \u043f",
+        "image": "p2.jpg",
+        "sound": "Sound17.mp3",
+        "text_nl": "pe like  p in pet"
+    },
+    "17": {
+        "text_tl": "\u0420 \u0440",
+        "image": "r2.jpg",
+        "sound": "Sound18.mp3",
+        "text_nl": "er like  r  in rock (but rolled)"
+    },
+    "18": {
+        "text_tl": "\u0421 \u0441",
+        "image": "s2.jpg",
+        "sound": "Sound19.mp3",
+        "text_nl": "es like  s in sun"
+    },
+    "19": {
+        "text_tl": "\u0422 \u0442",
+        "image": "t2.jpg",
+        "sound": "Sound20.mp3",
+        "text_nl": "te like  t  in table"
+    },
+    "20": {
+        "text_tl": "\u0423 \u0443",
+        "image": "u2.jpg",
+        "sound": "Sound21.mp3",
+        "text_nl": "oo like oo in moon"
+    },
+    "21": {
+        "text_tl": "\u0424 \u0444",
+        "image": "f2.jpg",
+        "sound": "Sound22.mp3",
+        "text_nl": "ef like  f  in food"
+    },
+    "22": {
+        "text_tl": "\u0425 \u0445",
+        "image": "h2.jpg",
+        "sound": "Sound23.mp3",
+        "text_nl": "kha like  ch in Scottish loch"
+    },
+    "23": {
+        "text_tl": "\u0426 \u0446",
+        "image": "ts2.jpg",
+        "sound": "Sound24.mp3",
+        "text_nl": "tse like  ts in boots"
+    },
+    "24": {
+        "text_tl": "\u0427 \u0447",
+        "image": "ch2.jpg",
+        "sound": "Sound25.mp3",
+        "text_nl": "che like  ch in chat"
+    },
+    "25": {
+        "text_tl": "\u0428 \u0448",
+        "image": "sh2.jpg",
+        "sound": "Sound26.mp3",
+        "text_nl": "sha like  sh in short"
+    },
+    "26": {
+        "text_tl": "\u0429 \u0449",
+        "image": "shch2.jpg",
+        "sound": "Sound27.mp3",
+        "text_nl": "shcha like  sh_ch in fresh_cheese"
+    },
+    "27": {
+        "text_tl": "\u044a",
+        "image": "tv_znak2.jpg",
+        "sound": "Sound28.mp3",
+        "text_nl": "tviordiy znak (hard sign) "
+    },
+    "28": {
+        "text_tl": "\u044b",
+        "image": "y2.jpg",
+        "sound": "Sound29.mp3",
+        "text_nl": "ih* like i"
+    },
+    "29": {
+        "text_tl": "\u044c",
+        "image": "m_znak2.jpg",
+        "sound": "Sound30.mp3",
+        "text_nl": "myagkiy znak (soft sign) "
+    },
+    "30": {
+        "text_tl": "\u042d \u044d",
+        "image": "ue2.jpg",
+        "sound": "Sound31.mp3",
+        "text_nl": "e like  e in end"
+    },
+    "31": {
+        "text_tl": "\u042e \u044e",
+        "image": "yu2.jpg",
+        "sound": "Sound32.mp3",
+        "text_nl": "yoo like  u  in use"
+    },
+    "32": {
+        "text_tl": "\u042f \u044f",
+        "image": "ya2.jpg",
+        "sound": "Sound33.mp3",
+        "text_nl": "ya like  ya in yard"
+    }
+}

@@ -24,7 +24,8 @@ model_sound = genanki.Model(
   fields=[
     {'name': 'Question'},
     {'name': 'Answer'},
-    {'name': 'MyMedia'}, 
+    {'name': 'MyImage'}, 
+    {'name': 'MySound'}, 
   ],
   templates=[
     {
@@ -39,7 +40,7 @@ model_sound = genanki.Model(
 def gen_anki_note(id, text, image, sound):
     return genanki.Note(
         model=model_sound,
-        fields=[";".join(image), ";".join(text), f"[sound:{sound}]"]
+        fields=[";".join(image), ";".join(text), f"[sound:{sound}]", f"[sound:{sound}]"]
     )
 
 
