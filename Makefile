@@ -28,11 +28,25 @@ gen_korean_alphabet:
 		-o assets/ankidecks/korean_alphabet
 		
 clean_korean_alphabet:
-	poetry run python src/preprocess_korean_alphabet.py \
+	poetry run python src/postprocess_korean_alphabet.py \
 		-f banana_crawler/out/korean_alphabet.json \
 		-d assets/korean_alphabet/ \
 		-o data/korean_alphabet.json
-	
+
+clean_japanese_alphabet:
+	poetry run python src/postprocess_japanese_alphabet.py \
+		-f banana_crawler/out/japanese_alphabet.json \
+		-d assets/japanese_alphabet/ \
+		-o data/japanese_alphabet.json
+
+
+clean_russian_alphabet:
+	poetry run python src/postprocess_russian_alphabet.py \
+		-f banana_crawler/out/russian_alphabet.json \
+		-d assets/russian_alphabet/ \
+		-o data/russian_alphabet.json
+
+
 scrapy_shell:
 	poetry run scrapy shell $(shell_url)
 

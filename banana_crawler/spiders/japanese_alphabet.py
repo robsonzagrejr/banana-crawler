@@ -25,7 +25,7 @@ class JapaneseAlphabetSpider(scrapy.Spider):
             alphabet_dict[i] = {
                 "text": row.xpath("./img[@alt]/@alt").getall(),
                 "image": row.xpath("./img[@src]/@src").getall(),
-                #"sound": row.xpath("descendant::node()/a/@onclick").getall(),
+                "sound": [],
             }
             i += 1
 
