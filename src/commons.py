@@ -4,7 +4,6 @@ import requests
 
 
 def download_file(url, file_path):
-    return
     with requests.get(url, stream=True) as r:
         r.raise_for_status()
         with open(file_path, 'wb') as f:
